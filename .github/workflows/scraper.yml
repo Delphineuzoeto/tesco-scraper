@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add tesco_data.csv
+          git add -f tesco_data.csv
           git commit -m "Daily Tesco data update" || echo "No changes"
           git push
