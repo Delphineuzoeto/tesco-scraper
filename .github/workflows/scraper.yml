@@ -2,16 +2,21 @@ name: Tesco Scraper
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # runs every day at 8am UTC
-  workflow_dispatch:      # allows manual trigger
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,10 +29,76 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      - name: Commit and push CSV
+      - name: Commit and push changes
         run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add -f tesco_data.csv
-          git commit -m "Daily Tesco data update" || echo "No changes"
-          git push
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add tesco_data.csv || true
+
+          git commit -m "update: tesco data $(date +'%Y-%m-%d')" || echo "No changes"
+
+          git pull --rebase origin main || true
+          git push origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# name: Tesco Scraper
+
+# on:
+#   schedule:
+#     - cron: '0 8 * * *'  # runs every day at 8am UTC
+#   workflow_dispatch:      # allows manual trigger
+
+# jobs:
+#   scrape:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout code
+#         uses: actions/checkout@v4
+
+#       - name: Set up Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: '3.12'
+
+#       - name: Install dependencies
+#         run: pip install -r requirements.txt
+
+#       - name: Run scraper
+#         run: python scraper.py
+
+#       - name: Commit and push CSV
+#         run: |
+#           git config --global user.email "action@github.com"
+#           git config --global user.name "GitHub Action"
+#           git add -f tesco_data.csv
+#           git commit -m "Daily Tesco data update" || echo "No changes"
+#           git push
