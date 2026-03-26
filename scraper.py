@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import pandas as pd
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -49,7 +49,7 @@ CATEGORIES = ['chicken', 'beef', 'fish', 'milk', 'eggs', 'bread']
 
 def run_scraper(max_pages=3):
     all_products = []
-    today = datetime.utcnow().strftime("%Y-%m-%d")
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     for category in CATEGORIES:
         print(f"Scraping {category}...")
