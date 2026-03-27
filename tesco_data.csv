@@ -1,438 +1,864 @@
-name,price,price_per_kg,category
-Tesco British Chicken Breast Fillets 650G,£4.65,£7.15/kg,chicken
-Tesco Chicken Breast Fillets 320g,£2.34,£7.31/kg,chicken
-Tesco British Chicken Breast Mini Fillets 400G,£3.85,£9.62/kg,chicken
-Tesco Large Whole Chicken 1.7-2.1kg,£5.15,£3.03/kg,chicken
-Tesco Medium Whole Chicken 1.3-1.7kg,£3.95,£3.04/kg,chicken
-Tesco British Diced Chicken Breast 400G,£3.85,£9.62/kg,chicken
-Tesco Chicken Breast Mini Fillets 650g,£5.10,£7.85/kg,chicken
-Eastman's Sliced Cooked Chicken 240G,£1.99,£8.29/kg,chicken
-Tesco Extra Large Whole Chicken 2.1-2.6kg,£6.35,£3.02/kg,chicken
-Tesco British Diced Chicken Breast 650G,£5.10,£7.85/kg,chicken
-Tesco British Chicken Thighs 1Kg,£2.99,£2.99/kg,chicken
-Tesco Large Chicken Fillet Pack 1.6Kg,£10.50,£6.56/kg,chicken
-Tesco Roast In The Bag Rotisserie Style Whole Chicken 1.5Kg,£7.00,£4.67/kg,chicken
-Tesco British Chicken Thigh Fillets 1Kg,£7.10,£7.10/kg,chicken
-Tesco Crispy Chicken Tenders 305g,£4.20,£13.77/kg,chicken
-Tesco British Chicken Drumsticks 1Kg,£2.15,£2.15/kg,chicken
-Tesco British Chicken Thigh Fillets 600G,£5.60,£9.33/kg,chicken
-Butchers Choice Cooked Chicken Slices 340G,£2.09,£6.15/kg,chicken
-Tesco British Chicken Legs 1Kg,£2.25,£2.25/kg,chicken
-Tesco British Chicken Drumstick Fillets 600g,£2.95,£4.92/kg,chicken
-Tesco Buttered Chicken Breast Joint 565g,£6.55,£11.59/kg,chicken
-Eastman's Sliced Cooked Chicken Tikka 240G,£1.99,£8.29/kg,chicken
-Tesco Chicken Breast Pieces 750g,£5.95,£7.93/kg,chicken
-Tesco Slower Grown Chicken Breast Fillets 650g,£7.70,£11.85/kg,chicken
-Tesco Flamegrilled Roast Chicken Slices 160g,£3.00,£18.75/kg,chicken
-Tesco British Roast Chicken Slices 120g,£2.25,£18.75/kg,chicken
-Tesco Finest Roast Chicken 120g,£3.75,£31.25/kg,chicken
-Tesco Roast In Bag Butter Basted Whole Chicken 1.5Kg,£7.00,£4.67/kg,chicken
-Tesco BBQ Roast Chicken Slices 160g,£3.00,£18.75/kg,chicken
-Tesco Finest British Cornfed Free Range Whole Chicken 1Kg-2.3Kg,£7.50,£7.50/kg,chicken
-Tesco Wafer Thin Roast Chicken Slices 400g,£2.19,£5.48/kg,chicken
-Tesco 2 Roast Cooked Chicken Breast Fillets 245 G,£3.85,£15.71/kg,chicken
-Tesco Chicken Wings 1KG,£2.19,£2.19/kg,chicken
-Tesco Chicken Thighs 2Kg,£5.60,£2.80/kg,chicken
-Tesco Southern Fried Chicken Steaks 4 Pack 380g,£2.00,£5.26/kg,chicken
-Tesco Wafer Thin Roast Chicken Slices 125g,£1.25,£10.00/kg,chicken
-Butchers Choice Chicken Fillet 1.2 kg,£5.10,£4.25/kg,chicken
-Tesco Roast Chicken Slices 180g,£3.75,£20.83/kg,chicken
-Tesco Breaded Chicken Steaks 4 Pack 380g,£2.00,£5.26/kg,chicken
-Tesco Buttermilk Chicken Tenders 305g,£4.20,£13.77/kg,chicken
-Tesco Crispy Chicken Breast Fillets 350g,£4.20,£12.00/kg,chicken
-Tesco 2 Garlic and Herb Chicken Kievs 270g,£3.25,£12.04/kg,chicken
-Tesco Southern Fried Chicken Tenders 305g,£4.20,£13.77/kg,chicken
-Fridge Raiders Roast Chicken Bites 3X22.5G,£1.65,£24.44/kg,chicken
-Tesco Breaded Chicken Goujons 270g,£3.00,£11.11/kg,chicken
-Tesco British Chicken Breast Fillets 2kg,£12.85,£6.42/kg,chicken
-Tesco Cajun Chicken Escalopes 350g,£4.50,£12.86/kg,chicken
-Tesco Hot & Spicy Chicken Tenders 305g,£4.20,£13.77/kg,chicken
-Tesco Breaded Chicken Steaks 4 Pack 505g,£4.40,£8.71/kg,chicken
-Tesco Sweet Chilli Roast Chicken Slices 160g,£3.00,£18.75/kg,chicken
-Tesco Chicken Mince 5% Fat 500G,£2.49,£4.98/kg,chicken
-Diggerscrispy Shredded Chicken 320G,£3.85,£12.03/kg,chicken
-Diggers Batter Chicken Balls 320G,£3.85,£11.32/kg,chicken
-Birds Eye Chicken Dippers 22 Pack 403g,£5.00,£12.41/kg,chicken
-Tesco Battered Chicken Dippers 20 Pack 450g,£1.65,£3.67/kg,chicken
-"Tesco Finest Roast Chicken Breast with Pork, Sage & Onion Stuffing 120g",£3.75,£31.25/kg,chicken
-Tesco Organic 2 Chicken Fillets,£5.75,£23.00/kg,chicken
-Fridge Raiders Slow Roasted Chicken Bites 5X22.5G,£2.55,£22.67/kg,chicken
-Tesco 4 Roast Cooked Chicken Breast Fillets 485G,£6.00,£12.37/kg,chicken
-Birds Eye Chicken Dippers 38 Pack 697g,£6.00,£8.61/kg,chicken
-Tesco Sweet Chilli Chicken Escalopes 316G,£4.50,£14.24/kg,chicken
-Birds Eye 2 Crispy Chicken 170G,£1.50,£8.82/kg,chicken
-Tesco Finest Parmesan Parmigiana Crispy Chicken Breasts 420g,£6.00,£14.29/kg,chicken
-Tesco Finest Lemon Crispy Chicken Schnitzel 355g,£6.00,£16.90/kg,chicken
-Tesco Organic Whole Chicken,£15.00,£10.00/kg,chicken
-Tesco Buttermilk Chicken Strips 400g,£4.10,£10.25/kg,chicken
-Tesco Garlic & Herb Chicken Kievs 375g,£4.70,£12.53/kg,chicken
-Tesco Chicken Breast Fillet 1Kg,£7.00,£7.00/kg,chicken
-Tesco Chicken Drumsticks 2Kg,£4.30,£2.15/kg,chicken
-Eastman's Hot & Spicy Sliced Chicken 240G,£1.99,£8.29/kg,chicken
-Tesco Flame Grilled Chicken Breast Mini Fillets 170g,£3.25,£19.12/kg,chicken
-Birds Eye 2 Southern Fried Chicken 180G,£1.50,£8.33/kg,chicken
-Tesco Lean Diced Beef 400G,£5.50,£13.75/kg,beef
-Tesco Diced Beef 400G,£4.49,£11.22/kg,beef
-Tesco British Roast Beef Slices 90g,£2.25,£25.00/kg,beef
-Tesco British Beef Medium Roasting Joint,£12.00,£20.00/kg,beef
-Tesco Thin Cut Beef Steaks 395G,£4.50,£11.39/kg,beef
-Tesco Beef Brisket,£10.50,£17.50/kg,beef
-Tesco Lean Beef Steak Mince 5% Fat 500g,£5.19,£10.38/kg,beef
-Tesco Finest Beef Roasting Joint,£15.75,£21.00/kg,beef
-Tesco Lean Diced Beef 600G,£8.00,£13.33/kg,beef
-Tesco Beef Brisket In Gravy 380G,£5.60,£14.74/kg DR.WT,beef
-Tesco Finest Topside of Beef - Charred 90g,£3.75,£41.67/kg,beef
-Tesco Beef Stir Fry Strips 357G,£6.10,£17.09/kg,beef
-Tesco Stewing Steak 400G,£4.45,£11.12/kg,beef
-Tesco Large Beef Roasting Joint With Basting Fat,£18.00,£18.00/kg,beef
-Tesco Lean Beef Steak Mince 5% Fat 250G,£2.69,£10.76/kg,beef
-Tesco 2 Beef Medallion Steaks 340G,£4.90,£14.41/kg,beef
-Tesco Beef Mince 20% Fat 500g,£3.25,£6.50/kg,beef
-Tesco Finest Finely Sliced Roast Beef Brisket 90g,£3.75,£41.67/kg,beef
-Tesco Carvery Beef Joint,,,beef
-Tesco Lean Beef Steak Mince 5% Fat 750g,£7.50,£10.00/kg,beef
-Tesco Slow Roasting Beef Joint,,,beef
-Tesco British Corned Beef 110g,£2.25,£20.46/kg,beef
-Tesco Finest Diced Beef 400G,£7.40,£18.50/kg,beef
-Tesco Beef Rump Steak 255G,£4.45,£17.45/kg,beef
-Tesco Beef Medallion Steak 227G,£3.29,£14.49/kg,beef
-Knorr Rich Beef Stock Pot 4 x 28g,£1.95,£17.41/kg,beef
-Tesco Beef Meatballs 12 Pack 336g,£3.95,£11.76/kg,beef
-Eastmans Corned Beef Slices 150g,£1.50,£10.00/kg,beef
-Tesco Slow Cooked Tennesse Style Boneless Beef 370g,£5.60,£15.14/kg,beef
-Tesco Basted Beef Joint 751G,£13.00,£17.31/kg,beef
-Tesco 4 Quarter Pounder Beef Burger 454g,£4.00,£8.81/kg,beef
-Tesco Beef Steaks with Peppercorn Sauce 320g,£7.30,£22.81/kg,beef
-Tesco Beef Meatballs 24 Pack 672g,£6.50,£9.67/kg,beef
-Tesco Beef Gravy Granules 200G,£0.66,£3.30/kg,beef
-Tesco Finest Slow Cooked Beef Bourguignon 540G,£7.95,£14.72/kg,beef
-Tesco Finest 4 Beef Dripping Yorkshire Puddings 190G,£2.55,£13.42/kg,beef
-Tesco Beef Steak Mince 15% Fat 750g,£7.10,£9.47/kg,beef
-Tesco Finest 12 Beef & Herb Meatballs 336G,£4.95,£14.73/kg,beef
-Yeo Valley Organic 2 British Beef Steak Burgers 260g,£5.25,£20.19/kg,beef
-Tesco Beef Ribeye Steak 227G,£6.85,£30.18/kg,beef
-Oxo Beef Stock Cubes 12 Pack 71g,£2.65,£37.32/kg,beef
-Tesco Teriyaki Beef Brisket 370G,£5.60,£15.14/kg,beef
-Tesco 2 Beef Grill Steaks 300G,£3.60,£12.00/kg,beef
-Tesco Finest Beef Stroganoff 550g,£7.95,£14.46/kg,beef
-Princes Corned Beef 340G,£3.90,£11.47/kg,beef
-Fire Pit Tesco Beef Smash Burgers 340g,£4.00,£11.76/kg,beef
-Schwartz Beef Casserole Recipe Mix 38g,£1.00,£26.32/kg,beef
-Tesco Beef Fillet Steak 170G,£8.15,£47.94/kg,beef
-Tesco For Beef Gravy Granules 500g,£1.60,£3.20/kg,beef
-Tesco Finest 2 Beef Rump Steaks 510G,£13.40,£26.28/kg,beef
-Ship Corned Beef 340G,£3.70,£10.88/kg,beef
-Tesco Beef Stock Cubes 10 Pack 100g,£1.10,£1.10/100g,beef
-Colman's Beef Casserole Recipe Mix 40G,£1.00,£25.00/kg,beef
-Bisto Best Beef Gravy Granules 230g,£4.30,£18.70/kg,beef
-Tesco Bone In Rib Of Beef,£25.00,£25.00/kg,beef
-Bovril Beef Extract 250G,£4.80,£19.20/kg,beef
-Tesco Beef Steak Mince 15% Fat 500G,£5.10,£10.20/kg,beef
-Tesco Corned Beef 4 Slices 140g,£3.80,£27.14/kg,beef
-Tesco Slow Cooked Chunky Beef Ragu 550g,£6.30,£11.46/kg,beef
-Potts Beef Stock 500Ml,£2.30,£4.60/litre,beef
-Tesco Cooked Beef Slices 125g,£1.80,£14.40/kg,beef
-Tesco Beef Bolognese Fresh Ravioli 300g,£1.95,£6.50/kg,beef
-Tesco Slow Cooked Beef Casserole 330g,£4.10,£12.42/kg,beef
-Tesco Quick Cook Sirloin Beef Steak 150g,£4.00,£26.67/kg,beef
-Tesco Finest Beef Stock 450Ml,£2.65,£5.89/litre,beef
-Knorr Beef Stock Pot 4 x 28g,£1.95,£17.41/kg,beef
-Princes Corned Beef 130G,£2.10,£16.15/kg,beef
-Tesco Organic Beef Roasting Joint,£19.58,£21.75/kg,beef
-Princes Corned Beef 200G,£3.20,£16.00/kg,beef
-Tesco Organic Beef Ribeye Steak,£8.25,£41.25/kg,beef
-Tesco Beef Stockpot 4 Pack 112G,£1.70,£15.18/kg,beef
-TESCO finest Cherrywood Smoked Beef Aberdeen Angus Beef Burgers 340g,£5.50,£16.18/kg,beef
-Mowi 2 Scottish Salmon Fillets 230G,£5.95,£25.87/kg,fish
-Leap Free Not Farmed Albacore Tuna 220G,£6.90,£31.36/kg,fish
-Leap Wild Smoked Sockeye Salmon 100G,£9.00,£90.00/kg,fish
-Birds Eye 4 Battered Fish Fillets 400G,£2.45,£6.12/kg,fish
-Tesco 2 Skinless & Boneless Basa Fillets 250G,£1.79,£7.16/kg,fish
-Tesco 2 Boneless Salmon Fillets 260G,£4.80,£18.46/kg,fish
-Youngs Gastro Signature Breaded Lemon & Pepper 2 Fish Fillets 270G,£5.25,£19.44/kg,fish
-Bay Fishmongers White Fish Fillets 520G,£2.35,£4.52/kg,fish
-Tesco 2 Skinless Smoked Basa Fillets 240G,£1.79,£7.46/kg,fish
-Tesco Lightly Dusted Cod Fillets 255G,£5.50,£21.57/kg,fish
-Hearty Food Co 4 Battered White Fish Fillets 400G,£1.99,£4.98/kg,fish
-Youngs Chip Shop 4 Omega 3 Fish Fillets,£4.25,£10.62/kg,fish
-Young's Chip Shop Extra Large Beer Batter Fish Fillets 300g,£4.35,£14.50/kg,fish
-Tesco 2 Boneless Sea Bass Fillets 180G,£5.95,£33.06/kg,fish
-Tesco 4 Breaded Cod Fillets 500G,£5.00,£10.00/kg,fish
-Tesco Battered Cod Fillet Bites 200G,£3.00,£15.00/kg,fish
-Tesco Finest 2 Skinless & Boneless Cod Loins 300g,£5.00,£16.67/kg,fish
-Tesco 2 Breaded Chunky Cod Fillets 350G,£5.25,£15.00/kg,fish
-Youngs Gastro 2 Tempura Battered Fish Fillets 270G,£5.25,£19.44/kg,fish
-Youngs Gastro 2 Crispy Lemon Basa Fillets 310G,£5.25,£16.94/kg,fish
-Tesco Lightly Dusted Haddock Fillets 255G,£5.50,£21.57/kg,fish
-Tesco Tuna Chunks In Spring Water 4 X 145G,£2.49,£6.10/kg DR.WT,fish
-Birds Eye Omega 3 Fish Fingers 10 Pack 280g,£3.00,£10.71/kg,fish
-Tesco Breaded Chunky Haddock Fillets 350g,£5.25,£15.00/kg,fish
-Birds Eye 4 Breaded Cod Fillets 400g,£6.60,£16.50/kg,fish
-Tesco Finest Skinless & Boneless Cod Loins 280G,£8.10,£28.93/kg,fish
-Tesco Cod Fillets 360G,£5.50,£15.28/kg,fish
-Tesco Smoked Salmon 100g,£3.75,£37.50/kg,fish
-Birds Eye 6 Crispy Battered Fish Fingers Extra Large 360G,£3.75,£10.42/kg,fish
-Youngs Gastro 2 Sea Salt & Pepper Basa Fillets 310G,£5.25,£16.94/kg,fish
-Birds Eye Captain's Discoveries Lightly Dusted Fish Fillets with Sea Salt & Rosemary 280g,£4.50,£16.07/kg,fish
-Tesco Finest 2 Cod & Parsley Fishcakes 290G,£3.60,£12.41/kg,fish
-Tesco Fish Pie Mix 340G,£6.50,£19.12/kg,fish
-Hearty Food Co 4 Breaded White Fish Fillets 400G,£1.99,£4.98/kg,fish
-Tesco Boneless Smoked Haddock 280G,£7.60,£27.14/kg,fish
-Birds Eye 2 Battered Fish Fillets 200G,£1.50,£7.50/kg,fish
-Hearty Food Co. 4 Breaded Fish Fillets 600G,£2.99,£4.98/kg,fish
-Tesco Finest 2 Smoked Haddock Fishcakes 290G,£3.60,£12.41/kg,fish
-Tesco Omega 3 Fish Fingers 10 Pack 300g,£0.93,£3.10/kg,fish
-Tesco 4 Wild Salmon Fillets 330G,£5.50,£16.67/kg,fish
-Tesco Fish Pie Mix 400G,£6.00,£15.00/kg,fish
-Tesco Basa Fillets 500G,£5.50,£11.00/kg,fish
-Birds Eye 4 Battered Cod Fillets 400g,£6.60,£16.50/kg,fish
-Hearty Food Co 4 Fish Steaks In Butter Sauce 552G,£2.70,£4.89/kg,fish
-Tesco 4 Battered Haddock Fillets 500G,,,fish
-Tesco 2 Boneless Mackerel Fillets 160G,£3.95,£24.69/kg,fish
-Tesco Simply Salmon & Dill Parcels 275G,£5.40,£19.64/kg,fish
-Tesco 2 Boneless Cod Fillets 280G,£7.80,£27.86/kg,fish
-Tesco Sweet Chilli & Lime Basa Fillets 250g,£3.00,£12.00/kg,fish
-Tesco Skinless Boneless Scottish Mackerel In Tomato Sauce 125G,£1.30,£10.40/kg,fish
-Tesco Finest 2 Beer Battered Cod Fillets 300g,£4.10,£13.67/kg,fish
-Tesco Boneless Haddock Fillets 280G,£5.85,£20.89/kg,fish
-Youngs Chip Shop Jumbo Fish Special 480g,£5.00,£10.42/kg,fish
-Tesco 2 Lemon & Pepper Sea Bass Fillets 200G,£5.95,£29.75/kg,fish
-Tesco Haddock Fillets 360G,£5.50,£15.28/kg,fish
-Tesco Finest 6 Chunky Cod Fillets Fish Fingers 400G,£4.40,£11.00/kg,fish
-Mowi 2 Scottish Salmon Fillets 230G,£5.95,£25.87/kg,fish
-Hearty Food Co Fish Fingers 10 Pack 250g,£0.80,£3.20/kg,fish
-Tesco 4 Breaded Haddock Fillets 500G,£5.00,£10.00/kg,fish
-Tesco Tuna Chunks In Spring Water 145G,£0.65,£6.37/kg DR.WT,fish
-Hearty Food Co 10 Cod Fish Cakes 500g,£2.00,£4.00/kg,fish
-Birds Eye 2 Breaded Fish Fillets 200G,£1.50,£7.50/kg,fish
-Tesco Boneless Salmon Half Side 500g,£9.20,£18.40/kg,fish
-Tesco Cod Fish Fingers 10 Pack 300G,£1.99,£6.63/kg,fish
-Tesco 2 Cod Fishcakes 270G,£2.15,£7.96/kg,fish
-Tesco Boneless Salmon Fillets 4 Pack 520g,£9.45,£18.17/kg,fish
-Tesco Mackerel in Spring Water 125g,£1.30,£14.77/kg DR.WT,fish
-Birds Eye Gluten Free Breaded Fish Fillets 250G,£3.85,£15.40/kg,fish
-Tesco Cod Mornay 360g,£5.90,£16.39/kg,fish
-Tesco 4 Battered Chunky Cod Fillets 500G,£6.25,£12.50/kg,fish
-Tesco Battered Haddock Goujons 200G,£2.75,£13.75/kg,fish
-Tesco Finest Yellow Fin Tuna Steaks 280g,£5.00,£17.86/kg,fish
-Tesco Finest 2 Cod & Chorizo Fishcakes 290G,£3.60,£12.41/kg,fish
-Youngs 4 Fish Steaks And Butter Sauce 560G,£4.70,£8.39/kg,fish
-Tesco Sweet Chilli Salmon Fillets 230g,£5.50,£23.91/kg,fish
-"Tesco British Semi Skimmed Milk 2.272L, 4 Pints",£1.65,£0.73/litre,milk
-"Tesco British Whole Milk 2.272L, 4 Pints",£1.65,£0.73/litre,milk
-"Tesco British Semi Skimmed Milk 1.13L, 2 Pints",£1.20,£1.06/litre,milk
-"Tesco British Whole Milk 1.13L, 2 Pints",£1.20,£1.06/litre,milk
-"Tesco British Skimmed Milk 2.272L, 4 Pints",£1.65,£0.73/litre,milk
-Cravendale Filtered Fresh Semi Skimmed Milk 2L Fresher for Longer,£2.50,£1.25/litre,milk
-"Tesco British Semi Skimmed Milk 568 Ml, 1 Pint",£0.85,£1.50/litre,milk
-"Tesco British Skimmed Milk 1.136L, 2 Pints",£1.20,£1.06/litre,milk
-Tesco Filtered Semi Skimmed Milk 2 Litre,£2.10,£1.05/litre,milk
-Cravendale Filtered Fresh Whole Milk 2L Fresher for Longer,£2.50,£1.25/litre,milk
-"Tesco British Whole Milk 568Ml, 1 Pint",£0.85,£1.50/litre,milk
-Tesco Organic British Semi Skimmed Milk 2.272L/4 Pints,£2.45,£1.08/litre,milk
-Tesco British Semi Skimmed Longlife Uht Milk 1 Litre,£1.35,£1.35/litre,milk
-Arla BOB Skimmed Milk 2L Tastes like Semi Skimmed,£2.50,£1.25/litre,milk
-Cravendale Filtered Fresh Semi Skimmed Milk 1L Fresher for Longer,£1.75,£1.75/litre,milk
-Creamfields Semi Skimmed UHT Milk 1L,£0.69,£0.69/litre,milk
-Tesco Milk Chocolate Digestive Biscuits 300G,£1.20,£4.00/kg,milk
-Tesco Filtered Whole Milk 2 Litre,£2.10,£1.05/litre,milk
-Tesco Organic British Whole Milk 2.272L/4 Pints,£2.45,£1.08/litre,milk
-Tesco British Semi Skimmed Uht Milk 6 X 1 Litre,£6.15,£1.02/litre,milk
-Graham's Gold Jersey Milk 1 Litre,£1.95,£1.95/litre,milk
-Tesco Finest Jersey Whole Milk 1L,£1.90,£1.90/litre,milk
-Arla Big Milk Fresh Whole Milk  2L Vitamin Enriched for kids 1+,£2.75,£1.38/litre,milk
-Creamfields Skimmed UHT Milk 1L,£0.69,£0.69/litre,milk
-"Tesco British Skimmed Milk 568Ml, 1 Pint",£0.85,£1.50/litre,milk
-Tesco British Whole Milk Longlife Uht 1 Litre,£1.35,£1.35/litre,milk
-Tunnock's Milk Chocolate Tea Cakes 6 x 24g,£1.15,£7.99/kg,milk
-Cadbury Animals Biscuits - Milk Chocolate 5 x 19.9g,£1.50,£15.08/kg,milk
-"Tesco Organic British Semi Skimmed Milk 1.136L, 2 Pint",£1.95,£1.72/litre,milk
-Cravendale Filtered Fresh Skimmed Milk 2L Fresher for Longer,£2.50,£1.25/litre,milk
-Cravendale Filtered Fresh Whole Milk 1L Fresher for Longer,£1.75,£1.75/litre,milk
-Tesco British Skimmed Longlife Uht Milk 1 Litre,£1.35,£1.35/litre,milk
-McVitie's Digestives Milk Chocolate Biscuits 266g,£2.25,£8.46/kg,milk
-Arla LactoFREE Semi Skimmed Milk Drink 1L,£1.95,£1.95/litre,milk
-Tesco Milk Chocolate Mousse 6 X60g,£0.85,£2.36/kg,milk
-Graham's Organic Whole Milk 1L,£1.90,£1.90/litre,milk
-Yeo Valley Organic Fresh Whole Milk 2L,£3.15,£1.58/litre,milk
-Tesco Milk Chocolate Malted Milk 250g,£1.65,£6.60/kg,milk
-Tesco British Whole Uht Milk 6 X 1 Litre,£6.15,£1.02/litre,milk
-"Tesco Organic Free Range Whole Milk 1.136L, 2 Pint",£1.95,£1.72/litre,milk
-Tesco British Skimmed Uht Milk 6 X 1 Litre,£6.15,£1.02/litre,milk
-Biocol Skimmed Milk 1 Litre,£1.80,£1.80/litre,milk
-Tesco Milk For Milk For Cats 200Ml,£0.90,£4.50/litre,milk
-Tesco Filtered Skimmed Milk 2 Litre,£2.10,£1.05/litre,milk
-Cadbury Dairy milk Buttons Shell EASTER Egg 90g,£2.00,£22.22/kg,milk
-Arla Big Milk Fresh Whole Milk Vitamin Enriched for kids 4 X250ml,£3.75,£3.75/litre,milk
-Arla Lactofree Whole Milk Drink 2L,£3.00,£1.50/litre,milk
-Delamere Dairy Sterilised Longlife Whole Milk 1 Litre,£1.20,£1.20/litre,milk
-Trewithen Dairy Barista Cornish Milk 1 Litre,£1.65,£1.65/litre,milk
-Ms. Molly's Milk Lollies 8X35ml,£1.15,£4.11/litre,milk
-Arla BOB Semi-Skimmed Milk 2L That Tastes Like Whole,£2.50,£1.25/litre DR.WT,milk
-Yeo Valley Organic Semi-Skimmed Fresh Milk 2L,£3.15,£1.58/litre,milk
-Delamere Skimmed Sterilised Milk 1 Litre,£1.20,£1.20/litre,milk
-SuperNutrio High Protein Fresh Whole Milk 1l,£2.25,£2.25/litre,milk
-Tesco Chocolate Flavoured Milk 1L,£1.20,£1.20/litre,milk
-Arla LactoFREE Semi Skimmed Milk Drink 2L,£3.15,£1.58/litre,milk
-Yeo Valley Organic Free Range Whole Milk 1L,£2.00,£2.00/litre,milk
-Smarties Milk Chocolate Egg 100g,£2.00,£20.00/kg,milk
-SuperNutrio High Protein Fresh Semi Skimmed Milk 1l,£2.25,£2.25/litre,milk
-Delamere Dairy Sterilised Semi-Skimmed Milk 1 Litre,£1.20,£1.20/litre,milk
-Kinder Milk Slice Milk And Honey 3 X 28G,£0.95,£11.31/kg,milk
-"Tesco Organic Free Range Skimmed Milk 1.136L, 2 Pint",£1.95,£1.72/litre,milk
-Lindt Lindor Milk Chocolate Egg with Milk Truffles 183g,£12.00,£65.57/kg,milk
-Lindt Milk Chocolate Egg With Lindor Milk Truffels 348G,£22.00,£63.22/kg,milk
-Lindt Lindor Milk Chocolate Egg with Milk Truffles 260g,£15.00,£57.69/kg,milk
-Arla BOB Skimmed Milk 1L Tastes like Semi Skimmed,£1.55,£1.55/litre,milk
-Galaxy Minstrels Milk Chocolate 118g,£1.75,£14.83/kg,milk
-Cadbury Dairy Milk Freddo Faces Easter Egg 90g,£2.00,£22.22/kg,milk
-Tesco Milk For Kittens 200Ml,£0.90,£4.50/litre,milk
-Laila Coconut Milk 400ml,£1.30,£3.25/litre,milk
-Tesco Milk Chocolate Raisins 150g,£1.85,£12.33/kg,milk
-Arla LactoFREE Whole Milk Drink 1L,£1.95,£1.95/litre,milk
-Clarence Court Traditional Leghorn Whites Free Range Eggs 6 Pack,£2.85,£0.48/each,eggs
-Tesco Medium Free Range Eggs 12 Pack,£2.85,£0.24/each,eggs
-Tesco Large Free Range Eggs 12 Pack,£3.30,£0.28/each,eggs
-Tesco Free Range Eggs Medium 6 Pack,£1.80,£0.30/each,eggs
-Tesco Large Free Range Eggs 6 Pack,£2.10,£0.35/each,eggs
-Big & Fresh Barn Eggs Large 10 Pack,£2.55,£0.26/each,eggs
-Happy Egg Free Range Eggs Large 10 Pack,£3.75,£0.38/each,eggs
-Happy Egg Free Range Eggs Medium 6 Pack,£2.35,£0.39/each,eggs
-Freshlay Golden Yolks Free Range Eggs 10 Pack 540G,£4.05,£0.40/each,eggs
-Happy Egg Free Range Eggs Large 6 Pack,£2.55,£0.42/each,eggs
-Big & Free Large White Free Range Eggs 10 Pack,£3.35,£0.34/each,eggs
-Cadbury Mini Eggs 74g,£2.00,£27.03/kg,eggs
-Happy Egg Co. Free Range Eggs 10 Mixed Weight,£3.45,£0.34/each,eggs
-St.Ewe Rich Yolk Free Range Eggs 6 Pack,£2.95,£0.49/each,eggs
-Tesco Finest Free Range 6 Golden Yolk Eggs,£2.90,£0.48/each,eggs
-St. Ewe Rich Yolk Large Free-Range Eggs 6 Pack,£3.30,£0.55/each,eggs
-Tesco Mixed Sized Organic Eggs 6 Pack,£2.85,£8.69/kg,eggs
-Tesco Free Range Eggs Very Large 6 Pack,£2.40,£0.40/each,eggs
-Tesco Finest 6 Free Range Chestnut Maran Eggs,£2.90,£0.48/each,eggs
-Cadbury Creme Egg 5 Pack 200G,£4.00,£20.00/kg,eggs
-Purely Organic Eggs Mixed Weight 10 Pack,£5.20,£0.52/each,eggs
-St Ewe Original Large Free Range Eggs 10 Pack,£3.95,£0.40/each,eggs
-Cadbury Mini Eggs Shell Egg 95g,£2.00,£21.05/kg,eggs
-Cadbury Creme Egg Chocolate Eggs Mixed 5 Pack 200g,£4.00,£20.00/kg,eggs
-Tesco Egg Custard Tarts 4 Pack,£1.05,£0.26/each,eggs
-St. Ewe Original Free Range Eggs Medium 6 Pack,£2.40,£0.40/each,eggs
-Cadbury Creme Egg Chocolate Eggs 8 pack 320g,£6.00,£18.75/kg,eggs
-Cadbury Dairy milk Buttons Shell EASTER Egg 90g,£2.00,£22.22/kg,eggs
-Tesco Egg Noodles 300G,£1.10,£3.67/kg,eggs
-Cadbury Mini Creme Eggs Chocolate Eggs 78g,,,eggs
-Cadbury Dairy Milk Mini Eggs Chocolate Eggs 77g,£2.00,£25.97/kg,eggs
-Tesco Scotch Eggs 2 Pack 227G,£1.09,£4.80/kg,eggs
-Tesco Finest Free Range Bluebell Araucana Eggs 6 Pack,£2.90,£0.48/each,eggs
-ST. EWE FREE RANGE EGGS Original Family Pack Mixed Weight 15 Eggs,£4.85,£0.32/each,eggs
-Cadbury Caramel Egg 5 Pack 195G,£4.00,£20.51/kg,eggs
-Cadbury Biscoff Filled Egg 5x32g,£4.00,£25.00/kg,eggs
-Two Chicks Liquid Egg Whites 500 Ml,£3.50,£7.00/litre,eggs
-Cadbury Dairy Milk Freddo Faces Easter Egg 90g,£2.00,£22.22/kg,eggs
-Tony's Chocolonely 12 Egg-Stra Special Chocolate Eggs 150G,£4.50,£30.00/kg,eggs
-Smarties Milk Chocolate Egg 100g,£2.00,£20.00/kg,eggs
-Galaxy Creamy Truffle Mini Eggs Easter Egg 194g,£7.00,£36.08/kg,eggs
-Cadbury Mini Eggs Chocolate Eggs Bag 1kg,£16.00,£16.00/kg,eggs
-Milkybar White Chocolate Egg 72g,£2.00,£27.78/kg,eggs
-Cadbury Twirl Shell Egg 218g,£7.00,£32.11/kg,eggs
-Milkybar White Chocolate Mini Eggs Giant Easter Egg 230g,£7.00,£30.44/kg,eggs
-Tesco Medium Egg Noodles 250G,£0.95,£3.80/kg,eggs
-Cadbury White Creme Egg 5x40g,£4.00,£20.00/kg,eggs
-Cadbury Mini Eggs Family Pack 256g,£6.20,£24.22/kg,eggs
-Cadbury Dairy Milk Shell Easter Egg 242g,£7.00,£28.93/kg,eggs
-Cadbury Mini Egg 287g,£5.75,£20.04/kg,eggs
-Smarties Mini Eggs 80G,£1.75,£21.88/kg,eggs
-Cadbury Creme Egg Shell 255g,£7.00,£27.45/kg,eggs
-Cadbury Orange Mini Eggs 74g,£2.00,£27.03/kg,eggs
-Cadbury Dairy Milk Mini Eggs Shell 238g,,,eggs
-Kinder Surprise Egg 3 X 20G,£3.00,£50.00/kg,eggs
-Kit Kat Chunky Easter Egg 110g,£2.00,£18.18/kg,eggs
-St Ewe Super Eggs 6 Pack,£2.75,£0.46/each,eggs
-Galaxy Milk Chocolate Easter Egg 210g,£7.00,£33.33/kg,eggs
-Tesco Egg Hunt Basket 340G,£6.00,£17.65/kg,eggs
-Cadbury White Buttons Shell Egg 91g,£2.00,£21.98/kg,eggs
-Reese's Peanut Butter Creme Egg 5X34g,,,eggs
-Kinder Bueno Mini Easter Eggs 80g,£3.65,£45.62/kg,eggs
-Lindt Lindor Mini Pistachio Eggs 80g,,,eggs
-Yolk  Free Range Eggs 6 Medium,£1.80,£0.30/each,eggs
-After Eight Dark Mint Chocolate Mini Eggs 81G,£1.75,£21.60/kg,eggs
-Maltesers Milk Chocolate Easter Egg 194g,£7.00,£36.08/kg,eggs
-Kinder Surprise Easter Egg 100G,,,eggs
-Cadbury Oreo Chocolate Egg 5 x 31g,£4.00,£25.81/kg,eggs
-KITKAT Milk Chocolate Mini Eggs 80g,£1.75,£21.88/kg,eggs
-Tesco Scotch Eggs 4 Pack 454G,£2.15,£4.74/kg,eggs
-Maltesers Milk Chocolate Easter Egg 96.5g,,,eggs
-Maltesers Bunnies Milk Chocolate Easter Egg 207g,£7.00,£33.82/kg,eggs
-Milkybar White Chocolate Mini Eggs 80G,£1.75,£21.88/kg,eggs
-Wildfarmed Sliced Seeded Bread 550g,£2.25,£4.09/kg,bread
-Tesco White Toastie Bread Thick Sliced 800g,£0.75,£0.94/kg,bread
-Tesco Medium Sliced White Bread 800g,£0.74,£0.92/kg,bread
-Hovis Soft White Medium Sliced Bread 800g,£1.39,£1.74/kg,bread
-Warburtons Farmhouse Thick Sliced White Bread 800g,£1.60,£2.00/kg,bread
-Warburtons Toastie Thick Sliced White Bread 800g,£1.40,£1.75/kg,bread
-Tesco Wholemeal Medium Sliced Bread 800g,£0.75,£0.94/kg,bread
-Hovis Seed Sensations Seven Seeds Sliced Bread 800g,£2.00,£2.50/kg,bread
-Warburtons Tiger Bread Bloomer 600g,£1.65,£2.75/kg,bread
-Warburtons Half And Half Medium Bread 800G,£1.35,£1.69/kg,bread
-Warburtons Wholemeal Medium Sliced Bread 400g,£0.99,£2.48/kg,bread
-Warburtons Toastie Thick and Small Sliced White Bread 400g,£0.99,£2.48/kg,bread
-Hovis Soft White Thick Sliced Bread 800g,£1.39,£1.74/kg,bread
-Hovis Best of Both Medium Bread 800g,£1.15,£1.44/kg,bread
-Warburtons Wholemeal Medium Sliced Bread 800g,£1.35,£1.69/kg,bread
-Warburtons Danish Lighter Small White Sliced Bread 400g,£1.25,£3.12/kg,bread
-Warburtons Medium Sliced Soft White Bread 800g,£1.40,£1.75/kg,bread
-H.W. Nevill's Medium Sliced Wholemeal Bread 800g,£0.55,£0.69/kg,bread
-Tesco Finest Sunflower & Pumpkin Sliced White Bread Loaf 600g,£1.40,£2.33/kg,bread
-Hovis Wholemeal Tasty Medium Bread 800g,£1.35,£1.69/kg,bread
-Jason's Recipe No 08 White Sourdough Ciabattin Bread 580g,£2.20,£3.79/kg,bread
-Tesco Multiseed Batch Medium Sliced White Loaf 800g,£1.30,£1.62/kg,bread
-Warburtons Thick Sliced Seeded Batch Bread 800g,£1.90,£2.38/kg,bread
-Tesco Finest Super Seeded Sliced Farmhouse Loaf 800g,£1.60,£2.00/kg,bread
-Warburtons Baker's Bloomer White Bread 800g,£1.85,£2.31/kg,bread
-H.W. Nevill's Medium Sliced White Bread 800g,£0.55,£0.69/kg,bread
-Tesco Lightly Seeded White Bread Loaf 800g,£1.00,£1.25/kg,bread
-Kingsmill 50/50 Medium Soft White Bread Loaf 800g,£1.05,£1.31/kg,bread
-Tesco Finest Dark Rye & Sunflower Farmhouse Sliced Bread 600g,£1.40,£2.33/kg,bread
-Hovis Best of Both Thick Bread 800g,£1.15,£1.44/kg,bread
-Tesco 10 Garlic Bread Slices 260G,£1.25,£4.81/kg,bread
-Hovis Authentic Granary Thick Bread 800g,£1.95,£2.44/kg,bread
-Tesco White Plain Pitta Bread 6 Pack,£0.50,£0.08/each,bread
-Hovis Wholemeal Thick Sliced Bread 800g,£1.35,£1.69/kg,bread
-Hovis Authentic Granary Wholemeal Sliced Bread 800g,£1.95,£2.44/kg,bread
-Tesco Finest Wholemeal Seeds & Grains Loaf 800g,£1.60,£2.00/kg,bread
-Tesco Farmhouse Thick Sliced White Bread 800g,£1.10,£1.38/kg,bread
-Hovis Seed Sensations Seven Seeds Sliced Bread 400g,£1.15,£2.88/kg,bread
-Hovis Farmhouse Batch Wholemeal Bread with Oats 800g,£1.65,£2.06/kg,bread
-Warburtons Small Medium Sliced White Bread 400G,£0.99,£2.48/kg,bread
-Tesco Wholemeal Pitta Bread 6 Pack,£0.50,£0.08/each,bread
-Hovis Tasty Wholemeal Medium Sliced Bread 400g,£1.00,£2.50/kg,bread
-Warburtons Half & Half Thick Sliced Bread 800g,£1.35,£1.69/kg,bread
-Warburtons Premium Old English Sliced White Bread 400g,£1.90,£4.75/kg,bread
-Warburtons Milk Roll Soft White Bread 400g,£1.45,£3.62/kg,bread
-Warburtons White Farmhouse Bread 400G,£1.30,£3.25/kg,bread
-Hovis Authentic Granary Small Bread 400g,£1.15,£2.88/kg,bread
-Jason's Sourdough White Ciabattin Bread with Grains & Seeds 580g,£2.20,£3.79/kg,bread
-Tesco Breaded Chicken Goujons 270g,£3.00,£11.11/kg,bread
-Jason's Superb Sprouted Grains Sourdough Bread 450g,£2.20,£4.89/kg,bread
-Warburtons Soft White Pitta Breads 4 Pack,£1.20,£0.30/each,bread
-Warburtons Soft Wholemeal Pitta Breads 4 Pack,£1.20,£0.30/each,bread
-Hovis White 'n' Fibre Sliced Bread 800g,£1.65,£2.06/kg,bread
-Tesco Finest White Loaf 800g,£1.60,£2.00/kg,bread
-Tesco Breaded Chicken Steaks 4 Pack 505g,£4.40,£8.71/kg,bread
-Warburtons White Sandwich Bread Thins 6 Pack,£1.20,£0.20/each,bread
-Tesco Breaded Chicken Steaks 4 Pack 380g,£2.00,£5.26/kg,bread
-Tesco Cheese & Garlic Pizza Bread 236G,£1.45,£6.14/kg,bread
-Jason's Protein Sourdough Sunflower Seeded Bread 580g,£2.80,£4.83/kg,bread
-Tesco Finest Sliced Green Olive & Rosemary Sourdough Bread 400g,£2.00,£5.00/kg,bread
-Jacksons of Yorkshire Soft Champion White Bloomer Bread 800g,£1.85,£2.31/kg,bread
-Wildfarmed Sliced Seeded Bread 550g,£2.25,£4.09/kg,bread
-Clay Oven Bakery Hand Stretched Garlic & Coriander Naan Bread 2 Pack 360g,£1.85,£5.14/kg,bread
-Tesco Free From White Bread 550g,£2.00,£3.64/kg,bread
-Tesco Plain Naan Bread 2 Pack,£1.35,£0.68/each,bread
-Promise Gluten Free Soft White Sliced Bread 480g,£3.25,£6.77/kg,bread
-Tesco Free From Brown Bread 550g,£2.00,£3.64/kg,bread
-Jason's Recipe No 09 Wholemeal Sourdough Ciabattin Bread 580g,£2.20,£3.79/kg,bread
-Schar Gluten-Free Soft White Sliced Bread Loaf,£2.95,£9.83/kg,bread
-Tesco Free From Sliced Seeded Bread 550g,£2.00,£3.64/kg,bread
-Warburtons Gluten Free Multiseed Loaf Bread 300g,£1.80,£6.00/kg,bread
-Tesco 4 Breaded Cod Fillets 500G,£5.00,£10.00/kg,bread
-Warburtons Soft White Bread with Sourdough 400g,£1.85,£4.62/kg,bread
+name,price,price_per_kg,category,date
+Tesco Lean Diced Beef 400G,5.5,£13.75/kg,beef,2026-03-27
+Tesco Diced Beef 400G,4.49,£11.22/kg,beef,2026-03-27
+Tesco British Beef Medium Roasting Joint,12.0,£20.00/kg,beef,2026-03-27
+Tesco British Roast Beef Slices 90g,2.25,£25.00/kg,beef,2026-03-27
+Tesco Thin Cut Beef Steaks 395G,4.5,£11.39/kg,beef,2026-03-27
+Tesco Beef Brisket,10.5,£17.50/kg,beef,2026-03-27
+Tesco Finest Beef Roasting Joint,15.75,£21.00/kg,beef,2026-03-27
+Tesco Lean Beef Steak Mince 5% Fat 500g,5.19,£10.38/kg,beef,2026-03-27
+Tesco Lean Diced Beef 600G,8.0,£13.33/kg,beef,2026-03-27
+Tesco Beef Brisket In Gravy 380G,5.6,£14.74/kg DR.WT,beef,2026-03-27
+Tesco Large Beef Roasting Joint With Basting Fat,18.0,£18.00/kg,beef,2026-03-27
+Tesco Finest Topside of Beef - Charred 90g,3.75,£41.67/kg,beef,2026-03-27
+Tesco Beef Stir Fry Strips 357G,6.1,£17.09/kg,beef,2026-03-27
+Tesco Stewing Steak 400G,4.45,£11.12/kg,beef,2026-03-27
+Tesco Lean Beef Steak Mince 5% Fat 250G,2.69,£10.76/kg,beef,2026-03-27
+Tesco 2 Beef Medallion Steaks 340G,4.9,£14.41/kg,beef,2026-03-27
+Tesco Beef Mince 20% Fat 500g,3.25,£6.50/kg,beef,2026-03-27
+Tesco Carvery Beef Joint,8.99,£9.99/kg,beef,2026-03-27
+Tesco Finest Finely Sliced Roast Beef Brisket 90g,3.75,£41.67/kg,beef,2026-03-27
+Tesco Lean Beef Steak Mince 5% Fat 750g,7.5,£10.00/kg,beef,2026-03-27
+Tesco Slow Roasting Beef Joint,18.0,£18.00/kg,beef,2026-03-27
+Tesco British Corned Beef 110g,2.25,£20.46/kg,beef,2026-03-27
+Tesco Finest Diced Beef 400G,7.4,£18.50/kg,beef,2026-03-27
+Tesco Beef Rump Steak 255G,4.45,£17.45/kg,beef,2026-03-27
+Tesco Beef Medallion Steak 227G,3.29,£14.49/kg,beef,2026-03-27
+Knorr Rich Beef Stock Pot 4 x 28g,1.95,£17.41/kg,beef,2026-03-27
+Tesco Beef Meatballs 12 Pack 336g,3.95,£11.76/kg,beef,2026-03-27
+Eastmans Corned Beef Slices 150g,1.5,£10.00/kg,beef,2026-03-27
+Tesco Slow Cooked Tennesse Style Boneless Beef 370g,5.6,£15.14/kg,beef,2026-03-27
+Tesco Basted Beef Joint 751G,13.0,£17.31/kg,beef,2026-03-27
+Tesco Beef Steaks with Peppercorn Sauce 320g,7.3,£22.81/kg,beef,2026-03-27
+Tesco 4 Quarter Pounder Beef Burger 454g,4.0,£8.81/kg,beef,2026-03-27
+Tesco Finest 4 Beef Dripping Yorkshire Puddings 190G,2.55,£13.42/kg,beef,2026-03-27
+Tesco Beef Gravy Granules 200G,0.66,£3.30/kg,beef,2026-03-27
+Tesco Beef Meatballs 24 Pack 672g,6.5,£9.67/kg,beef,2026-03-27
+Tesco Finest Slow Cooked Beef Bourguignon 540G,7.95,£14.72/kg,beef,2026-03-27
+Tesco Beef Steak Mince 15% Fat 750g,7.1,£9.47/kg,beef,2026-03-27
+Tesco Finest 12 Beef & Herb Meatballs 336G,4.95,£14.73/kg,beef,2026-03-27
+Yeo Valley Organic 2 British Beef Steak Burgers 260g,5.25,£20.19/kg,beef,2026-03-27
+Tesco Beef Ribeye Steak 227G,6.85,£30.18/kg,beef,2026-03-27
+Oxo Beef Stock Cubes 12 Pack 71g,2.65,£37.32/kg,beef,2026-03-27
+Tesco Teriyaki Beef Brisket 370G,5.6,£15.14/kg,beef,2026-03-27
+Tesco 2 Beef Grill Steaks 300G,3.6,£12.00/kg,beef,2026-03-27
+Tesco Finest Beef Stroganoff 550g,7.95,£14.46/kg,beef,2026-03-27
+Princes Corned Beef 340G,3.9,£11.47/kg,beef,2026-03-27
+Schwartz Beef Casserole Recipe Mix 38g,1.0,£26.32/kg,beef,2026-03-27
+Fire Pit Tesco Beef Smash Burgers 340g,4.0,£11.76/kg,beef,2026-03-27
+Tesco Beef Fillet Steak 170G,8.15,£47.94/kg,beef,2026-03-27
+Tesco Finest 2 Beef Rump Steaks 510G,13.4,£26.28/kg,beef,2026-03-27
+Tesco For Beef Gravy Granules 500g,1.6,£3.20/kg,beef,2026-03-27
+Ship Corned Beef 340G,3.7,£10.88/kg,beef,2026-03-27
+Bisto Best Beef Gravy Granules 230g,4.3,£18.70/kg,beef,2026-03-27
+Colman's Beef Casserole Recipe Mix 40G,1.0,£25.00/kg,beef,2026-03-27
+Tesco Beef Stock Cubes 10 Pack 100g,1.1,£11.00/kg,beef,2026-03-27
+Tesco Bone In Rib Of Beef,25.0,£25.00/kg,beef,2026-03-27
+Tesco Finest Bourbon Pulled Beef With Creamy Mash 400G,4.5,£0.01/kg,beef,2026-03-27
+Bovril Beef Extract 250G,4.8,£19.20/kg,beef,2026-03-27
+Tesco Beef Steak Mince 15% Fat 500G,5.1,£10.20/kg,beef,2026-03-27
+Tesco Corned Beef 4 Slices 140g,3.8,£27.14/kg,beef,2026-03-27
+Tesco Beef Lasagne 750G,4.3,£5.73/kg,beef,2026-03-27
+Tesco Slow Cooked Chunky Beef Ragu 550g,6.3,£11.46/kg,beef,2026-03-27
+TESCO finest Cherrywood Smoked Beef Aberdeen Angus Beef Burgers 340g,5.5,£16.18/kg,beef,2026-03-27
+Potts Beef Stock 500Ml,2.3,£4.60/litre,beef,2026-03-27
+Tesco Cooked Beef Slices 125g,1.8,£14.40/kg,beef,2026-03-27
+Tesco Finest Beef Stock 450Ml,2.65,£5.89/litre,beef,2026-03-27
+Tesco Beef Bolognese Fresh Ravioli 300g,1.95,£6.50/kg,beef,2026-03-27
+Tesco Quick Cook Sirloin Beef Steak 150g,4.0,£26.67/kg,beef,2026-03-27
+Tesco Slow Cooked Beef Casserole 330g,4.1,£12.42/kg,beef,2026-03-27
+Knorr Beef Stock Pot 4 x 28g,1.95,£17.41/kg,beef,2026-03-27
+Tesco Finest Rump Smash Beef Burgers 300G,4.5,£15.00/kg,beef,2026-03-27
+Princes Corned Beef 130G,2.1,£16.15/kg,beef,2026-03-27
+Tesco Beef Suet 200G,1.7,£8.50/kg,beef,2026-03-27
+Tesco White Toastie Bread Thick Sliced 800g,0.75,£0.94/kg,bread,2026-03-27
+Tesco Medium Sliced White Bread 800g,0.74,£0.92/kg,bread,2026-03-27
+Hovis Soft White Medium Sliced Bread 800g,1.39,£1.74/kg,bread,2026-03-27
+Warburtons Farmhouse Thick Sliced White Bread 800g,1.6,£2.00/kg,bread,2026-03-27
+Warburtons Toastie Thick Sliced White Bread 800g,1.4,£1.75/kg,bread,2026-03-27
+Tesco Wholemeal Medium Sliced Bread 800g,0.75,£0.94/kg,bread,2026-03-27
+Hovis Seed Sensations Seven Seeds Sliced Bread 800g,2.0,£2.50/kg,bread,2026-03-27
+Warburtons Tiger Bread Bloomer 600g,1.65,£2.75/kg,bread,2026-03-27
+Warburtons Half And Half Medium Bread 800G,1.35,£1.69/kg,bread,2026-03-27
+Warburtons Wholemeal Medium Sliced Bread 400g,0.99,£2.48/kg,bread,2026-03-27
+Warburtons Toastie Thick and Small Sliced White Bread 400g,0.99,£2.48/kg,bread,2026-03-27
+Hovis Soft White Thick Sliced Bread 800g,1.39,£1.74/kg,bread,2026-03-27
+Hovis Best of Both Medium Bread 800g,1.15,£1.44/kg,bread,2026-03-27
+Warburtons Wholemeal Medium Sliced Bread 800g,1.35,£1.69/kg,bread,2026-03-27
+Warburtons Danish Lighter Small White Sliced Bread 400g,1.25,£3.12/kg,bread,2026-03-27
+Warburtons Medium Sliced Soft White Bread 800g,1.4,£1.75/kg,bread,2026-03-27
+Tesco Finest Sunflower & Pumpkin Sliced White Bread Loaf 600g,1.4,£2.33/kg,bread,2026-03-27
+H.W. Nevill's Medium Sliced Wholemeal Bread 800g,0.55,£0.69/kg,bread,2026-03-27
+Hovis Wholemeal Tasty Medium Bread 800g,1.35,£1.69/kg,bread,2026-03-27
+Jason's Recipe No 08 White Sourdough Ciabattin Bread 580g,2.2,£3.79/kg,bread,2026-03-27
+Warburtons Thick Sliced Seeded Batch Bread 800g,1.9,£2.38/kg,bread,2026-03-27
+Tesco Multiseed Batch Medium Sliced White Loaf 800g,1.25,£1.56/kg,bread,2026-03-27
+Tesco Finest Super Seeded Sliced Farmhouse Loaf 800g,1.6,£2.00/kg,bread,2026-03-27
+Warburtons Baker's Bloomer White Bread 800g,1.8,£2.25/kg,bread,2026-03-27
+H.W. Nevill's Medium Sliced White Bread 800g,0.55,£0.69/kg,bread,2026-03-27
+Tesco Lightly Seeded White Bread Loaf 800g,1.0,£1.25/kg,bread,2026-03-27
+Kingsmill 50/50 Medium Soft White Bread Loaf 800g,1.05,£1.31/kg,bread,2026-03-27
+Tesco Finest Dark Rye & Sunflower Farmhouse Sliced Bread 600g,1.4,£2.33/kg,bread,2026-03-27
+Hovis Best of Both Thick Bread 800g,1.15,£1.44/kg,bread,2026-03-27
+Tesco 10 Garlic Bread Slices 260G,1.25,£4.81/kg,bread,2026-03-27
+Hovis Authentic Granary Thick Bread 800g,1.95,£2.44/kg,bread,2026-03-27
+Tesco White Plain Pitta Bread 6 Pack,0.5,£0.08/each,bread,2026-03-27
+Hovis Wholemeal Thick Sliced Bread 800g,1.35,£1.69/kg,bread,2026-03-27
+Tesco Finest Wholemeal Seeds & Grains Loaf 800g,1.6,£2.00/kg,bread,2026-03-27
+Hovis Authentic Granary Wholemeal Sliced Bread 800g,1.95,£2.44/kg,bread,2026-03-27
+Hovis Seed Sensations Seven Seeds Sliced Bread 400g,1.15,£2.88/kg,bread,2026-03-27
+Tesco Farmhouse Thick Sliced White Bread 800g,1.1,£1.38/kg,bread,2026-03-27
+Warburtons Small Medium Sliced White Bread 400G,0.99,£2.48/kg,bread,2026-03-27
+Hovis Farmhouse Batch Wholemeal Bread with Oats 800g,1.65,£2.06/kg,bread,2026-03-27
+Tesco Wholemeal Pitta Bread 6 Pack,0.5,£0.08/each,bread,2026-03-27
+Hovis Tasty Wholemeal Medium Sliced Bread 400g,1.0,£2.50/kg,bread,2026-03-27
+Warburtons Half & Half Thick Sliced Bread 800g,1.35,£1.69/kg,bread,2026-03-27
+Warburtons Premium Old English Sliced White Bread 400g,1.9,£4.75/kg,bread,2026-03-27
+Warburtons Milk Roll Soft White Bread 400g,1.45,£3.62/kg,bread,2026-03-27
+Warburtons White Farmhouse Bread 400G,1.3,£3.25/kg,bread,2026-03-27
+Hovis Authentic Granary Small Bread 400g,1.15,£2.88/kg,bread,2026-03-27
+Jason's Sourdough White Ciabattin Bread with Grains & Seeds 580g,2.2,£3.79/kg,bread,2026-03-27
+Tesco Breaded Chicken Goujons 270g,3.0,£11.11/kg,bread,2026-03-27
+Jason's Superb Sprouted Grains Sourdough Bread 450g,2.2,£4.89/kg,bread,2026-03-27
+Warburtons Soft White Pitta Breads 4 Pack,1.2,£0.30/each,bread,2026-03-27
+Tesco Finest White Loaf 800g,1.6,£2.00/kg,bread,2026-03-27
+Warburtons Soft Wholemeal Pitta Breads 4 Pack,1.2,£0.30/each,bread,2026-03-27
+Hovis White 'n' Fibre Sliced Bread 800g,1.65,£2.06/kg,bread,2026-03-27
+Tesco Breaded Chicken Steaks 4 Pack 505g,4.4,£8.71/kg,bread,2026-03-27
+Tesco Breaded Chicken Steaks 4 Pack 380g,2.0,£5.26/kg,bread,2026-03-27
+Warburtons White Sandwich Bread Thins 6 Pack,1.2,£0.20/each,bread,2026-03-27
+Tesco Cheese & Garlic Pizza Bread 236G,1.45,£6.14/kg,bread,2026-03-27
+Jason's Protein Sourdough Sunflower Seeded Bread 580g,2.8,£4.83/kg,bread,2026-03-27
+Tesco Finest Sliced Green Olive & Rosemary Sourdough Bread 400g,2.0,£5.00/kg,bread,2026-03-27
+Wildfarmed Sliced Seeded Bread 550g,2.25,£4.09/kg,bread,2026-03-27
+Tesco Free From White Bread 550g,1.95,£3.54/kg,bread,2026-03-27
+Clay Oven Bakery Hand Stretched Garlic & Coriander Naan Bread 2 Pack 360g,1.85,£5.14/kg,bread,2026-03-27
+Tesco Plain Naan Bread 2 Pack,1.35,£0.68/each,bread,2026-03-27
+Promise Gluten Free Soft White Sliced Bread 480g,2.6,£5.42/kg,bread,2026-03-27
+Tesco Free From Brown Bread 550g,1.95,£3.54/kg,bread,2026-03-27
+Jason's Recipe No 09 Wholemeal Sourdough Ciabattin Bread 580g,2.2,£3.79/kg,bread,2026-03-27
+Schar Gluten-Free Soft White Sliced Bread Loaf,2.95,£9.83/kg,bread,2026-03-27
+Tesco Free From Sliced Seeded Bread 550g,1.95,£3.54/kg,bread,2026-03-27
+Warburtons Gluten Free Multiseed Loaf Bread 300g,1.8,£6.00/kg,bread,2026-03-27
+Tesco 4 Breaded Cod Fillets 500G,5.0,£10.00/kg,bread,2026-03-27
+Warburtons Soft White Bread with Sourdough 400g,1.85,£4.62/kg,bread,2026-03-27
+Tesco British Chicken Breast Fillets 650G,4.65,£7.15/kg,chicken,2026-03-27
+Tesco British Chicken Breast Fillets 1KG,6.85,£6.85/kg,chicken,2026-03-27
+Tesco Chicken Breast Fillets 320g,2.34,£7.31/kg,chicken,2026-03-27
+Tesco British Chicken Breast Mini Fillets 400G,3.85,£9.62/kg,chicken,2026-03-27
+Tesco Large Whole Chicken 1.7-2.1kg,5.15,£3.03/kg,chicken,2026-03-27
+Tesco Medium Whole Chicken 1.3-1.7kg,3.95,£3.04/kg,chicken,2026-03-27
+Tesco British Diced Chicken Breast 400G,3.85,£9.62/kg,chicken,2026-03-27
+Tesco Chicken Breast Mini Fillets 650g,5.1,£7.85/kg,chicken,2026-03-27
+Eastman's Sliced Cooked Chicken 240G,1.99,£8.29/kg,chicken,2026-03-27
+Tesco British Diced Chicken Breast 650G,5.1,£7.85/kg,chicken,2026-03-27
+Tesco Extra Large Whole Chicken 2.1-2.6kg,6.35,£3.02/kg,chicken,2026-03-27
+Tesco British Chicken Thighs 1Kg,2.99,£2.99/kg,chicken,2026-03-27
+Tesco Large Chicken Fillet Pack 1.6Kg,10.5,£6.56/kg,chicken,2026-03-27
+Tesco Roast In The Bag Rotisserie Style Whole Chicken 1.5Kg,7.0,£4.67/kg,chicken,2026-03-27
+Tesco British Chicken Thigh Fillets 1Kg,7.1,£7.10/kg,chicken,2026-03-27
+Tesco Crispy Chicken Tenders 305g,4.2,£13.77/kg,chicken,2026-03-27
+Tesco British Chicken Drumsticks 1Kg,2.15,£2.15/kg,chicken,2026-03-27
+Tesco British Chicken Thigh Fillets 600G,5.6,£9.33/kg,chicken,2026-03-27
+Tesco British Chicken Legs 1Kg,2.25,£2.25/kg,chicken,2026-03-27
+Butchers Choice Cooked Chicken Slices 340G,2.09,£6.15/kg,chicken,2026-03-27
+Tesco British Chicken Drumstick Fillets 600g,2.95,£4.92/kg,chicken,2026-03-27
+Tesco Buttered Chicken Breast Joint 565g,6.55,£11.59/kg,chicken,2026-03-27
+Eastman's Sliced Cooked Chicken Tikka 240G,1.99,£8.29/kg,chicken,2026-03-27
+Tesco Slower Grown Chicken Breast Fillets 650g,7.7,£11.85/kg,chicken,2026-03-27
+Tesco Flamegrilled Roast Chicken Slices 160g,3.0,£18.75/kg,chicken,2026-03-27
+Tesco Chicken Breast Pieces 750g,5.95,£7.93/kg,chicken,2026-03-27
+Tesco British Roast Chicken Slices 120g,2.25,£18.75/kg,chicken,2026-03-27
+Tesco Finest Roast Chicken 120g,3.75,£31.25/kg,chicken,2026-03-27
+Tesco BBQ Roast Chicken Slices 160g,3.0,£18.75/kg,chicken,2026-03-27
+Tesco Roast In Bag Butter Basted Whole Chicken 1.5Kg,7.0,£4.67/kg,chicken,2026-03-27
+Tesco Finest British Cornfed Free Range Whole Chicken 1Kg-2.3Kg,7.5,£7.50/kg,chicken,2026-03-27
+Tesco Wafer Thin Roast Chicken Slices 400g,2.19,£5.48/kg,chicken,2026-03-27
+Tesco 2 Roast Cooked Chicken Breast Fillets 245 G,3.85,£15.71/kg,chicken,2026-03-27
+Tesco Chicken Thighs 2Kg,5.6,£2.80/kg,chicken,2026-03-27
+Tesco Chicken Wings 1KG,2.19,£2.19/kg,chicken,2026-03-27
+Tesco Southern Fried Chicken Steaks 4 Pack 380g,2.0,£5.26/kg,chicken,2026-03-27
+Tesco Wafer Thin Roast Chicken Slices 125g,1.25,£10.00/kg,chicken,2026-03-27
+Butchers Choice Chicken Fillet 1.2 kg,5.1,£4.25/kg,chicken,2026-03-27
+Tesco Roast Chicken Slices 180g,3.75,£20.83/kg,chicken,2026-03-27
+Tesco 2 Garlic and Herb Chicken Kievs 270g,3.25,£12.04/kg,chicken,2026-03-27
+Tesco Breaded Chicken Steaks 4 Pack 380g,2.0,£5.26/kg,chicken,2026-03-27
+Tesco Buttermilk Chicken Tenders 305g,4.2,£13.77/kg,chicken,2026-03-27
+Tesco Crispy Chicken Breast Fillets 350g,4.2,£12.00/kg,chicken,2026-03-27
+Fridge Raiders Roast Chicken Bites 3X22.5G,1.65,£24.44/kg,chicken,2026-03-27
+Tesco Breaded Chicken Goujons 270g,3.0,£11.11/kg,chicken,2026-03-27
+Tesco British Chicken Breast Fillets 2kg,12.85,£6.42/kg,chicken,2026-03-27
+Tesco Southern Fried Chicken Tenders 305g,4.2,£13.77/kg,chicken,2026-03-27
+Tesco Cajun Chicken Escalopes 350g,4.5,£12.86/kg,chicken,2026-03-27
+Tesco Breaded Chicken Steaks 4 Pack 505g,4.4,£8.71/kg,chicken,2026-03-27
+Tesco Hot & Spicy Chicken Tenders 305g,4.2,£13.77/kg,chicken,2026-03-27
+Tesco Chicken Mince 5% Fat 500G,2.49,£4.98/kg,chicken,2026-03-27
+Tesco Sweet Chilli Roast Chicken Slices 160g,3.0,£18.75/kg,chicken,2026-03-27
+Diggerscrispy Shredded Chicken 320G,3.85,£12.03/kg,chicken,2026-03-27
+Birds Eye Chicken Dippers 22 Pack 403g,5.0,£12.41/kg,chicken,2026-03-27
+"Tesco Finest Roast Chicken Breast with Pork, Sage & Onion Stuffing 120g",3.75,£31.25/kg,chicken,2026-03-27
+Tesco Battered Chicken Dippers 20 Pack 450g,1.65,£3.67/kg,chicken,2026-03-27
+Diggers Batter Chicken Balls 320G,3.85,£11.32/kg,chicken,2026-03-27
+Tesco Organic 2 Chicken Fillets,5.75,£23.00/kg,chicken,2026-03-27
+Fridge Raiders Slow Roasted Chicken Bites 5X22.5G,2.55,£22.67/kg,chicken,2026-03-27
+Tesco 4 Roast Cooked Chicken Breast Fillets 485G,6.0,£12.37/kg,chicken,2026-03-27
+Birds Eye 2 Crispy Chicken 170G,1.5,£8.82/kg,chicken,2026-03-27
+Tesco Sweet Chilli Chicken Escalopes 316G,4.5,£14.24/kg,chicken,2026-03-27
+Tesco Finest Parmesan Parmigiana Crispy Chicken Breasts 420g,6.0,£14.29/kg,chicken,2026-03-27
+Birds Eye Chicken Dippers 38 Pack 697g,6.0,£8.61/kg,chicken,2026-03-27
+Tesco Finest Lemon Crispy Chicken Schnitzel 355g,6.0,£16.90/kg,chicken,2026-03-27
+Tesco Buttermilk Chicken Strips 400g,4.1,£10.25/kg,chicken,2026-03-27
+Tesco Organic Whole Chicken,15.0,£10.00/kg,chicken,2026-03-27
+Tesco Chicken Breast Fillet 1Kg,7.0,£7.00/kg,chicken,2026-03-27
+Tesco Garlic & Herb Chicken Kievs 375g,4.7,£12.53/kg,chicken,2026-03-27
+Tesco Chicken Drumsticks 2Kg,4.3,£2.15/kg,chicken,2026-03-27
+Eastman's Hot & Spicy Sliced Chicken 240G,1.99,£8.29/kg,chicken,2026-03-27
+Tesco Fajita Cooked Chicken Breast Mini Fillets 170G,3.25,£19.12/kg,chicken,2026-03-27
+Clarence Court Traditional Leghorn Whites Free Range Eggs 6 Pack,2.85,£0.48/each,eggs,2026-03-27
+Tesco Medium Free Range Eggs 12 Pack,2.85,£0.24/each,eggs,2026-03-27
+Tesco Large Free Range Eggs 12 Pack,3.3,£0.28/each,eggs,2026-03-27
+Tesco Free Range Eggs Medium 6 Pack,1.8,£0.30/each,eggs,2026-03-27
+Tesco Large Free Range Eggs 6 Pack,2.1,£0.35/each,eggs,2026-03-27
+Big & Fresh Barn Eggs Large 10 Pack,2.55,£0.26/each,eggs,2026-03-27
+Happy Egg Free Range Eggs Large 10 Pack,3.75,£0.38/each,eggs,2026-03-27
+Happy Egg Free Range Eggs Medium 6 Pack,2.35,£0.39/each,eggs,2026-03-27
+Freshlay Golden Yolks Free Range Eggs 10 Pack 540G,4.05,£0.40/each,eggs,2026-03-27
+Happy Egg Free Range Eggs Large 6 Pack,2.55,£0.42/each,eggs,2026-03-27
+Big & Free Large White Free Range Eggs 10 Pack,3.35,£0.34/each,eggs,2026-03-27
+Cadbury Mini Eggs 74g,2.0,£27.03/kg,eggs,2026-03-27
+Happy Egg Co. Free Range Eggs 10 Mixed Weight,3.45,£0.34/each,eggs,2026-03-27
+Tesco Finest Free Range 6 Golden Yolk Eggs,2.9,£0.48/each,eggs,2026-03-27
+St.Ewe Rich Yolk Free Range Eggs 6 Pack,2.95,£0.49/each,eggs,2026-03-27
+St. Ewe Rich Yolk Large Free-Range Eggs 6 Pack,3.3,£0.55/each,eggs,2026-03-27
+Tesco Mixed Sized Organic Eggs 6 Pack,2.85,£8.69/kg,eggs,2026-03-27
+Tesco Free Range Eggs Very Large 6 Pack,2.4,£0.40/each,eggs,2026-03-27
+Tesco Finest 6 Free Range Chestnut Maran Eggs,2.9,£0.48/each,eggs,2026-03-27
+Cadbury Creme Egg 5 Pack 200G,4.0,£20.00/kg,eggs,2026-03-27
+Purely Organic Eggs Mixed Weight 10 Pack,5.2,£0.52/each,eggs,2026-03-27
+St Ewe Original Large Free Range Eggs 10 Pack,3.95,£0.40/each,eggs,2026-03-27
+Cadbury Mini Eggs Shell Egg 95g,2.0,£21.05/kg,eggs,2026-03-27
+Cadbury Creme Egg Chocolate Eggs Mixed 5 Pack 200g,4.0,£20.00/kg,eggs,2026-03-27
+Tesco Egg Custard Tarts 4 Pack,1.05,£0.26/each,eggs,2026-03-27
+St. Ewe Original Free Range Eggs Medium 6 Pack,2.4,£0.40/each,eggs,2026-03-27
+Cadbury Creme Egg Chocolate Eggs 8 pack 320g,6.0,£18.75/kg,eggs,2026-03-27
+Cadbury Dairy milk Buttons Shell EASTER Egg 90g,2.0,£22.22/kg,eggs,2026-03-27
+Tesco Egg Noodles 300G,1.1,£3.67/kg,eggs,2026-03-27
+Cadbury Dairy Milk Mini Eggs Chocolate Eggs 77g,2.0,£25.97/kg,eggs,2026-03-27
+Tesco Scotch Eggs 2 Pack 227G,1.09,£4.80/kg,eggs,2026-03-27
+ST. EWE FREE RANGE EGGS Original Family Pack Mixed Weight 15 Eggs,4.85,£0.32/each,eggs,2026-03-27
+Tesco Finest Free Range Bluebell Araucana Eggs 6 Pack,2.9,£0.48/each,eggs,2026-03-27
+Cadbury Biscoff Filled Egg 5x32g,4.0,£25.00/kg,eggs,2026-03-27
+Cadbury Caramel Egg 5 Pack 195G,4.0,£20.51/kg,eggs,2026-03-27
+Smarties Milk Chocolate Egg 100g,2.0,£20.00/kg,eggs,2026-03-27
+Cadbury Dairy Milk Freddo Faces Easter Egg 90g,2.0,£22.22/kg,eggs,2026-03-27
+Two Chicks Liquid Egg Whites 500 Ml,3.5,£7.00/litre,eggs,2026-03-27
+Tony's Chocolonely 12 Egg-Stra Special Chocolate Eggs 150G,4.5,£30.00/kg,eggs,2026-03-27
+Milkybar White Chocolate Egg 72g,2.0,£27.78/kg,eggs,2026-03-27
+Galaxy Creamy Truffle Mini Eggs Easter Egg 194g,7.0,£36.08/kg,eggs,2026-03-27
+Cadbury Mini Eggs Chocolate Eggs Bag 1kg,16.0,£16.00/kg,eggs,2026-03-27
+Cadbury Twirl Shell Egg 218g,7.0,£32.11/kg,eggs,2026-03-27
+Milkybar White Chocolate Mini Eggs Giant Easter Egg 230g,7.0,£30.44/kg,eggs,2026-03-27
+Cadbury Mini Eggs Family Pack 256g,6.2,£24.22/kg,eggs,2026-03-27
+Cadbury White Creme Egg 5x40g,4.0,£20.00/kg,eggs,2026-03-27
+Tesco Medium Egg Noodles 250G,0.95,£3.80/kg,eggs,2026-03-27
+Cadbury Orange Mini Eggs 74g,2.0,£27.03/kg,eggs,2026-03-27
+Cadbury Dairy Milk Shell Easter Egg 242g,7.0,£28.93/kg,eggs,2026-03-27
+Smarties Mini Eggs 80G,1.75,£21.88/kg,eggs,2026-03-27
+Kit Kat Chunky Easter Egg 110g,2.0,£18.18/kg,eggs,2026-03-27
+Cadbury Creme Egg Shell 255g,7.0,£27.45/kg,eggs,2026-03-27
+Kinder Surprise Egg 3 X 20G,3.0,£50.00/kg,eggs,2026-03-27
+Cadbury White Buttons Shell Egg 91g,2.0,£21.98/kg,eggs,2026-03-27
+St Ewe Super Eggs 6 Pack,2.75,£0.46/each,eggs,2026-03-27
+Galaxy Milk Chocolate Easter Egg 210g,7.0,£33.33/kg,eggs,2026-03-27
+Kinder Bueno Mini Easter Eggs 80g,3.65,£45.62/kg,eggs,2026-03-27
+Yolk  Free Range Eggs 6 Medium,1.8,£0.30/each,eggs,2026-03-27
+After Eight Dark Mint Chocolate Mini Eggs 81G,1.75,£21.60/kg,eggs,2026-03-27
+Cadbury Oreo Chocolate Egg 5 x 31g,4.0,£25.81/kg,eggs,2026-03-27
+Maltesers Milk Chocolate Easter Egg 194g,7.0,£36.08/kg,eggs,2026-03-27
+KITKAT Milk Chocolate Mini Eggs 80g,1.75,£21.88/kg,eggs,2026-03-27
+Tesco Scotch Eggs 4 Pack 454G,2.15,£4.74/kg,eggs,2026-03-27
+Cadbury Dairy Milk Caramel Nibbles Shell Egg 88g,2.0,£22.73/kg,eggs,2026-03-27
+Rocher Golden Eggs 90G / Milk,3.5,£38.89/kg,eggs,2026-03-27
+Maltesers Bunnies Milk Chocolate Easter Egg 207g,7.0,£33.82/kg,eggs,2026-03-27
+Lindt Lindor Milk Chocolate Eggs 80G,3.25,£40.62/kg,eggs,2026-03-27
+Yolk Free Range Eggs 6 Large,2.7,£0.45/each,eggs,2026-03-27
+Leap Free Not Farmed Albacore Tuna 220G,6.9,£31.36/kg,fish,2026-03-27
+Leap Wild Smoked Sockeye Salmon 100G,9.0,£90.00/kg,fish,2026-03-27
+Birds Eye 4 Battered Fish Fillets 400G,2.45,£6.12/kg,fish,2026-03-27
+Tesco 2 Boneless Salmon Fillets 260G,4.8,£18.46/kg,fish,2026-03-27
+Youngs Gastro Signature Breaded Lemon & Pepper 2 Fish Fillets 270G,5.25,£19.44/kg,fish,2026-03-27
+Tesco 2 Skinless & Boneless Basa Fillets 250G,1.79,£7.16/kg,fish,2026-03-27
+Bay Fishmongers White Fish Fillets 520G,2.35,£4.52/kg,fish,2026-03-27
+Tesco 2 Skinless Smoked Basa Fillets 240G,1.79,£7.46/kg,fish,2026-03-27
+Tesco Lightly Dusted Cod Fillets 255G,5.5,£21.57/kg,fish,2026-03-27
+Hearty Food Co 4 Battered White Fish Fillets 400G,1.99,£4.98/kg,fish,2026-03-27
+Youngs Chip Shop 4 Omega 3 Fish Fillets,4.25,£10.62/kg,fish,2026-03-27
+Young's Chip Shop Extra Large Beer Batter Fish Fillets 300g,4.35,£14.50/kg,fish,2026-03-27
+Tesco Battered Cod Fillet Bites 200G,3.0,£15.00/kg,fish,2026-03-27
+Tesco 2 Boneless Sea Bass Fillets 180G,5.95,£33.06/kg,fish,2026-03-27
+Tesco 4 Breaded Cod Fillets 500G,5.0,£10.00/kg,fish,2026-03-27
+Tesco Finest 2 Skinless & Boneless Cod Loins 300g,5.0,£16.67/kg,fish,2026-03-27
+Youngs Gastro 2 Tempura Battered Fish Fillets 270G,5.25,£19.44/kg,fish,2026-03-27
+Tesco 2 Breaded Chunky Cod Fillets 350G,5.25,£15.00/kg,fish,2026-03-27
+Youngs Gastro 2 Crispy Lemon Basa Fillets 310G,5.25,£16.94/kg,fish,2026-03-27
+Tesco Lightly Dusted Haddock Fillets 255G,5.5,£21.57/kg,fish,2026-03-27
+Tesco Tuna Chunks In Spring Water 4 X 145G,2.49,£6.10/kg DR.WT,fish,2026-03-27
+Birds Eye Omega 3 Fish Fingers 10 Pack 280g,3.0,£10.71/kg,fish,2026-03-27
+Tesco Breaded Chunky Haddock Fillets 350g,5.25,£15.00/kg,fish,2026-03-27
+Birds Eye 4 Breaded Cod Fillets 400g,6.6,£16.50/kg,fish,2026-03-27
+Tesco Smoked Salmon 100g,3.75,£37.50/kg,fish,2026-03-27
+Tesco Finest Skinless & Boneless Cod Loins 280G,8.1,£28.93/kg,fish,2026-03-27
+Birds Eye 6 Crispy Battered Fish Fingers Extra Large 360G,3.75,£10.42/kg,fish,2026-03-27
+Tesco Cod Fillets 360G,5.5,£15.28/kg,fish,2026-03-27
+Youngs Gastro 2 Sea Salt & Pepper Basa Fillets 310G,5.25,£16.94/kg,fish,2026-03-27
+Tesco Boneless Smoked Haddock 280G,7.6,£27.14/kg,fish,2026-03-27
+Birds Eye Captain's Discoveries Lightly Dusted Fish Fillets with Sea Salt & Rosemary 280g,4.5,£16.07/kg,fish,2026-03-27
+Tesco Fish Pie Mix 340G,6.5,£19.12/kg,fish,2026-03-27
+Hearty Food Co 4 Breaded White Fish Fillets 400G,1.99,£4.98/kg,fish,2026-03-27
+Tesco Finest 2 Cod & Parsley Fishcakes 290G,3.6,£12.41/kg,fish,2026-03-27
+Birds Eye 2 Battered Fish Fillets 200G,1.5,£7.50/kg,fish,2026-03-27
+Hearty Food Co. 4 Breaded Fish Fillets 600G,2.99,£4.98/kg,fish,2026-03-27
+Tesco Finest 2 Smoked Haddock Fishcakes 290G,3.6,£12.41/kg,fish,2026-03-27
+Tesco Omega 3 Fish Fingers 10 Pack 300g,0.93,£3.10/kg,fish,2026-03-27
+Tesco Basa Fillets 500G,5.5,£11.00/kg,fish,2026-03-27
+Tesco Fish Pie Mix 400G,6.0,£15.00/kg,fish,2026-03-27
+Tesco 4 Wild Salmon Fillets 330G,5.5,£16.67/kg,fish,2026-03-27
+Birds Eye 4 Battered Cod Fillets 400g,6.6,£16.50/kg,fish,2026-03-27
+Tesco 2 Boneless Mackerel Fillets 160G,3.95,£24.69/kg,fish,2026-03-27
+Tesco Sweet Chilli & Lime Basa Fillets 250g,3.0,£12.00/kg,fish,2026-03-27
+Hearty Food Co 4 Fish Steaks In Butter Sauce 552G,2.7,£4.89/kg,fish,2026-03-27
+Tesco Simply Salmon & Dill Parcels 275G,5.4,£19.64/kg,fish,2026-03-27
+Tesco Skinless Boneless Scottish Mackerel In Tomato Sauce 125G,1.3,£10.40/kg,fish,2026-03-27
+Tesco 2 Boneless Cod Fillets 280G,7.8,£27.86/kg,fish,2026-03-27
+Tesco Finest 2 Beer Battered Cod Fillets 300g,4.1,£13.67/kg,fish,2026-03-27
+Tesco Boneless Haddock Fillets 280G,5.85,£20.89/kg,fish,2026-03-27
+Tesco Haddock Fillets 360G,5.5,£15.28/kg,fish,2026-03-27
+Youngs Chip Shop Jumbo Fish Special 480g,5.0,£10.42/kg,fish,2026-03-27
+Tesco Finest 6 Chunky Cod Fillets Fish Fingers 400G,4.4,£11.00/kg,fish,2026-03-27
+Tesco 4 Breaded Haddock Fillets 500G,5.0,£10.00/kg,fish,2026-03-27
+Mowi 2 Scottish Salmon Fillets 230G,5.95,£25.87/kg,fish,2026-03-27
+Tesco 2 Lemon & Pepper Sea Bass Fillets 200G,5.95,£29.75/kg,fish,2026-03-27
+Hearty Food Co Fish Fingers 10 Pack 250g,0.8,£3.20/kg,fish,2026-03-27
+Tesco Boneless Salmon Half Side 500g,9.2,£18.40/kg,fish,2026-03-27
+Tesco Tuna Chunks In Spring Water 145G,0.65,£6.37/kg DR.WT,fish,2026-03-27
+Hearty Food Co 10 Cod Fish Cakes 500g,2.0,£4.00/kg,fish,2026-03-27
+Birds Eye 2 Breaded Fish Fillets 200G,1.5,£7.50/kg,fish,2026-03-27
+Tesco Cod Fish Fingers 10 Pack 300G,1.99,£6.63/kg,fish,2026-03-27
+Tesco 2 Cod Fishcakes 270G,2.15,£7.96/kg,fish,2026-03-27
+Tesco Boneless Salmon Fillets 4 Pack 520g,9.45,£18.17/kg,fish,2026-03-27
+Birds Eye Gluten Free Breaded Fish Fillets 250G,3.85,£15.40/kg,fish,2026-03-27
+Tesco Cod Mornay 360g,5.9,£16.39/kg,fish,2026-03-27
+Tesco Mackerel in Spring Water 125g,1.3,£14.77/kg DR.WT,fish,2026-03-27
+Tesco 4 Battered Chunky Cod Fillets 500G,6.25,£12.50/kg,fish,2026-03-27
+Tesco Battered Haddock Goujons 200G,2.75,£13.75/kg,fish,2026-03-27
+Tesco Finest 2 Cod & Chorizo Fishcakes 290G,3.6,£12.41/kg,fish,2026-03-27
+Tesco Finest Yellow Fin Tuna Steaks 280g,5.0,£17.86/kg,fish,2026-03-27
+Tesco Sweet Chilli Salmon Fillets 230g,5.5,£23.91/kg,fish,2026-03-27
+Youngs 4 Fish Steaks And Butter Sauce 560G,4.7,£8.39/kg,fish,2026-03-27
+"Tesco British Semi Skimmed Milk 2.272L, 4 Pints",1.65,£0.73/litre,milk,2026-03-27
+"Tesco British Whole Milk 2.272L, 4 Pints",1.65,£0.73/litre,milk,2026-03-27
+"Tesco British Semi Skimmed Milk 1.13L, 2 Pints",1.2,£1.06/litre,milk,2026-03-27
+"Tesco British Whole Milk 1.13L, 2 Pints",1.2,£1.06/litre,milk,2026-03-27
+"Tesco British Skimmed Milk 2.272L, 4 Pints",1.65,£0.73/litre,milk,2026-03-27
+Cravendale Filtered Fresh Semi Skimmed Milk 2L Fresher for Longer,2.5,£1.25/litre,milk,2026-03-27
+"Tesco British Semi Skimmed Milk 568 Ml, 1 Pint",0.85,£1.50/litre,milk,2026-03-27
+"Tesco British Skimmed Milk 1.136L, 2 Pints",1.2,£1.06/litre,milk,2026-03-27
+Tesco Filtered Semi Skimmed Milk 2 Litre,2.1,£1.05/litre,milk,2026-03-27
+Cravendale Filtered Fresh Whole Milk 2L Fresher for Longer,2.5,£1.25/litre,milk,2026-03-27
+"Tesco British Whole Milk 568Ml, 1 Pint",0.85,£1.50/litre,milk,2026-03-27
+Tesco Organic British Semi Skimmed Milk 2.272L/4 Pints,2.45,£1.08/litre,milk,2026-03-27
+Tesco British Semi Skimmed Longlife Uht Milk 1 Litre,1.35,£1.35/litre,milk,2026-03-27
+Arla BOB Skimmed Milk 2L Tastes like Semi Skimmed,2.5,£1.25/litre,milk,2026-03-27
+Cravendale Filtered Fresh Semi Skimmed Milk 1L Fresher for Longer,1.75,£1.75/litre,milk,2026-03-27
+Tesco Milk Chocolate Digestive Biscuits 300G,1.2,£4.00/kg,milk,2026-03-27
+Creamfields Semi Skimmed UHT Milk 1L,0.69,£0.69/litre,milk,2026-03-27
+Tesco Filtered Whole Milk 2 Litre,2.1,£1.05/litre,milk,2026-03-27
+Tesco Organic British Whole Milk 2.272L/4 Pints,2.45,£1.08/litre,milk,2026-03-27
+Tesco British Semi Skimmed Uht Milk 6 X 1 Litre,6.15,£1.02/litre,milk,2026-03-27
+Graham's Gold Jersey Milk 1 Litre,1.95,£1.95/litre,milk,2026-03-27
+Tesco Finest Jersey Whole Milk 1L,1.9,£1.90/litre,milk,2026-03-27
+Arla Big Milk Fresh Whole Milk  2L Vitamin Enriched for kids 1+,2.75,£1.38/litre,milk,2026-03-27
+Creamfields Skimmed UHT Milk 1L,0.69,£0.69/litre,milk,2026-03-27
+"Tesco British Skimmed Milk 568Ml, 1 Pint",0.85,£1.50/litre,milk,2026-03-27
+Tesco British Whole Milk Longlife Uht 1 Litre,1.35,£1.35/litre,milk,2026-03-27
+Tunnock's Milk Chocolate Tea Cakes 6 x 24g,1.15,£7.99/kg,milk,2026-03-27
+Cadbury Animals Biscuits - Milk Chocolate 5 x 19.9g,1.5,£15.08/kg,milk,2026-03-27
+"Tesco Organic British Semi Skimmed Milk 1.136L, 2 Pint",1.95,£1.72/litre,milk,2026-03-27
+Cravendale Filtered Fresh Skimmed Milk 2L Fresher for Longer,2.5,£1.25/litre,milk,2026-03-27
+Cravendale Filtered Fresh Whole Milk 1L Fresher for Longer,1.75,£1.75/litre,milk,2026-03-27
+Tesco British Skimmed Longlife Uht Milk 1 Litre,1.35,£1.35/litre,milk,2026-03-27
+Tesco Milk Chocolate Mousse 6 X60g,0.85,£2.36/kg,milk,2026-03-27
+McVitie's Digestives Milk Chocolate Biscuits 266g,2.25,£8.46/kg,milk,2026-03-27
+Arla LactoFREE Semi Skimmed Milk Drink 1L,1.95,£1.95/litre,milk,2026-03-27
+Graham's Organic Whole Milk 1L,1.9,£1.90/litre,milk,2026-03-27
+Yeo Valley Organic Fresh Whole Milk 2L,3.15,£1.58/litre,milk,2026-03-27
+Tesco Milk Chocolate Malted Milk 250g,1.65,£6.60/kg,milk,2026-03-27
+"Tesco Organic Free Range Whole Milk 1.136L, 2 Pint",1.95,£1.72/litre,milk,2026-03-27
+Tesco British Whole Uht Milk 6 X 1 Litre,6.15,£1.02/litre,milk,2026-03-27
+Tesco British Skimmed Uht Milk 6 X 1 Litre,6.15,£1.02/litre,milk,2026-03-27
+Biocol Skimmed Milk 1 Litre,1.8,£1.80/litre,milk,2026-03-27
+Tesco Milk For Milk For Cats 200Ml,0.85,£4.25/litre,milk,2026-03-27
+Tesco Filtered Skimmed Milk 2 Litre,2.1,£1.05/litre,milk,2026-03-27
+Arla Big Milk Fresh Whole Milk Vitamin Enriched for kids 4 X250ml,3.75,£3.75/litre,milk,2026-03-27
+Arla Lactofree Whole Milk Drink 2L,3.0,£1.50/litre,milk,2026-03-27
+Delamere Dairy Sterilised Longlife Whole Milk 1 Litre,1.2,£1.20/litre,milk,2026-03-27
+Trewithen Dairy Barista Cornish Milk 1 Litre,1.65,£1.65/litre,milk,2026-03-27
+Ms. Molly's Milk Lollies 8X35ml,1.15,£4.11/litre,milk,2026-03-27
+Arla BOB Semi-Skimmed Milk 2L That Tastes Like Whole,2.5,£1.25/litre DR.WT,milk,2026-03-27
+Yeo Valley Organic Semi-Skimmed Fresh Milk 2L,3.15,£1.58/litre,milk,2026-03-27
+Delamere Skimmed Sterilised Milk 1 Litre,1.2,£1.20/litre,milk,2026-03-27
+SuperNutrio High Protein Fresh Whole Milk 1l,2.25,£2.25/litre,milk,2026-03-27
+Tesco Chocolate Flavoured Milk 1L,1.2,£1.20/litre,milk,2026-03-27
+Arla LactoFREE Semi Skimmed Milk Drink 2L,3.15,£1.58/litre,milk,2026-03-27
+Yeo Valley Organic Free Range Whole Milk 1L,2.0,£2.00/litre,milk,2026-03-27
+Tesco Rice Cakes Milk Chocolate 105G,1.75,£16.67/kg,milk,2026-03-27
+SuperNutrio High Protein Fresh Semi Skimmed Milk 1l,2.25,£2.25/litre,milk,2026-03-27
+Delamere Dairy Sterilised Semi-Skimmed Milk 1 Litre,1.2,£1.20/litre,milk,2026-03-27
+Kinder Milk Slice Milk And Honey 3 X 28G,0.95,£11.31/kg,milk,2026-03-27
+Lindt Lindor Milk Chocolate Egg with Milk Truffles 183g,12.0,£65.57/kg,milk,2026-03-27
+"Tesco Organic Free Range Skimmed Milk 1.136L, 2 Pint",1.95,£1.72/litre,milk,2026-03-27
+Lindt Milk Chocolate Egg With Lindor Milk Truffels 348G,22.0,£63.22/kg,milk,2026-03-27
+Lindt Lindor Milk Chocolate Egg with Milk Truffles 260g,15.0,£57.69/kg,milk,2026-03-27
+Galaxy Minstrels Milk Chocolate 118g,1.75,£14.83/kg,milk,2026-03-27
+Arla BOB Skimmed Milk 1L Tastes like Semi Skimmed,1.55,£1.55/litre,milk,2026-03-27
+Tesco Milk For Kittens 200Ml,0.85,£4.25/litre,milk,2026-03-27
+Tesco Milk Chocolate Raisins 150g,1.85,£12.33/kg,milk,2026-03-27
+Tesco Milk Chocolate Chips 100G,1.5,£15.00/kg,milk,2026-03-27
+Laila Coconut Milk 400ml,1.3,£3.25/litre,milk,2026-03-27
+Arla LactoFREE Whole Milk Drink 1L,1.95,£1.95/litre,milk,2026-03-27
+Tesco Milk Chocolate Oaties 300g,1.5,£5.00/kg,milk,2026-03-27
+Tesco Lean Diced Beef 400G,£5.50,£13.75/kg,beef,
+Tesco Diced Beef 400G,£4.49,£11.22/kg,beef,
+Tesco British Roast Beef Slices 90g,£2.25,£25.00/kg,beef,
+Tesco British Beef Medium Roasting Joint,£12.00,£20.00/kg,beef,
+Tesco Thin Cut Beef Steaks 395G,£4.50,£11.39/kg,beef,
+Tesco Beef Brisket,£10.50,£17.50/kg,beef,
+Tesco Lean Beef Steak Mince 5% Fat 500g,£5.19,£10.38/kg,beef,
+Tesco Finest Beef Roasting Joint,£15.75,£21.00/kg,beef,
+Tesco Lean Diced Beef 600G,£8.00,£13.33/kg,beef,
+Tesco Beef Brisket In Gravy 380G,£5.60,£14.74/kg DR.WT,beef,
+Tesco Finest Topside of Beef - Charred 90g,£3.75,£41.67/kg,beef,
+Tesco Beef Stir Fry Strips 357G,£6.10,£17.09/kg,beef,
+Tesco Stewing Steak 400G,£4.45,£11.12/kg,beef,
+Tesco Large Beef Roasting Joint With Basting Fat,£18.00,£18.00/kg,beef,
+Tesco Lean Beef Steak Mince 5% Fat 250G,£2.69,£10.76/kg,beef,
+Tesco 2 Beef Medallion Steaks 340G,£4.90,£14.41/kg,beef,
+Tesco Beef Mince 20% Fat 500g,£3.25,£6.50/kg,beef,
+Tesco Finest Finely Sliced Roast Beef Brisket 90g,£3.75,£41.67/kg,beef,
+Tesco Carvery Beef Joint,,,beef,
+Tesco Lean Beef Steak Mince 5% Fat 750g,£7.50,£10.00/kg,beef,
+Tesco Slow Roasting Beef Joint,,,beef,
+Tesco British Corned Beef 110g,£2.25,£20.46/kg,beef,
+Tesco Finest Diced Beef 400G,£7.40,£18.50/kg,beef,
+Tesco Beef Rump Steak 255G,£4.45,£17.45/kg,beef,
+Tesco Beef Medallion Steak 227G,£3.29,£14.49/kg,beef,
+Knorr Rich Beef Stock Pot 4 x 28g,£1.95,£17.41/kg,beef,
+Tesco Beef Meatballs 12 Pack 336g,£3.95,£11.76/kg,beef,
+Eastmans Corned Beef Slices 150g,£1.50,£10.00/kg,beef,
+Tesco Slow Cooked Tennesse Style Boneless Beef 370g,£5.60,£15.14/kg,beef,
+Tesco Basted Beef Joint 751G,£13.00,£17.31/kg,beef,
+Tesco 4 Quarter Pounder Beef Burger 454g,£4.00,£8.81/kg,beef,
+Tesco Beef Steaks with Peppercorn Sauce 320g,£7.30,£22.81/kg,beef,
+Tesco Beef Meatballs 24 Pack 672g,£6.50,£9.67/kg,beef,
+Tesco Beef Gravy Granules 200G,£0.66,£3.30/kg,beef,
+Tesco Finest Slow Cooked Beef Bourguignon 540G,£7.95,£14.72/kg,beef,
+Tesco Finest 4 Beef Dripping Yorkshire Puddings 190G,£2.55,£13.42/kg,beef,
+Tesco Beef Steak Mince 15% Fat 750g,£7.10,£9.47/kg,beef,
+Tesco Finest 12 Beef & Herb Meatballs 336G,£4.95,£14.73/kg,beef,
+Yeo Valley Organic 2 British Beef Steak Burgers 260g,£5.25,£20.19/kg,beef,
+Tesco Beef Ribeye Steak 227G,£6.85,£30.18/kg,beef,
+Oxo Beef Stock Cubes 12 Pack 71g,£2.65,£37.32/kg,beef,
+Tesco Teriyaki Beef Brisket 370G,£5.60,£15.14/kg,beef,
+Tesco 2 Beef Grill Steaks 300G,£3.60,£12.00/kg,beef,
+Tesco Finest Beef Stroganoff 550g,£7.95,£14.46/kg,beef,
+Princes Corned Beef 340G,£3.90,£11.47/kg,beef,
+Fire Pit Tesco Beef Smash Burgers 340g,£4.00,£11.76/kg,beef,
+Schwartz Beef Casserole Recipe Mix 38g,£1.00,£26.32/kg,beef,
+Tesco Beef Fillet Steak 170G,£8.15,£47.94/kg,beef,
+Tesco For Beef Gravy Granules 500g,£1.60,£3.20/kg,beef,
+Tesco Finest 2 Beef Rump Steaks 510G,£13.40,£26.28/kg,beef,
+Ship Corned Beef 340G,£3.70,£10.88/kg,beef,
+Tesco Beef Stock Cubes 10 Pack 100g,£1.10,£1.10/100g,beef,
+Colman's Beef Casserole Recipe Mix 40G,£1.00,£25.00/kg,beef,
+Bisto Best Beef Gravy Granules 230g,£4.30,£18.70/kg,beef,
+Tesco Bone In Rib Of Beef,£25.00,£25.00/kg,beef,
+Bovril Beef Extract 250G,£4.80,£19.20/kg,beef,
+Tesco Beef Steak Mince 15% Fat 500G,£5.10,£10.20/kg,beef,
+Tesco Corned Beef 4 Slices 140g,£3.80,£27.14/kg,beef,
+Tesco Slow Cooked Chunky Beef Ragu 550g,£6.30,£11.46/kg,beef,
+Potts Beef Stock 500Ml,£2.30,£4.60/litre,beef,
+Tesco Cooked Beef Slices 125g,£1.80,£14.40/kg,beef,
+Tesco Beef Bolognese Fresh Ravioli 300g,£1.95,£6.50/kg,beef,
+Tesco Slow Cooked Beef Casserole 330g,£4.10,£12.42/kg,beef,
+Tesco Quick Cook Sirloin Beef Steak 150g,£4.00,£26.67/kg,beef,
+Tesco Finest Beef Stock 450Ml,£2.65,£5.89/litre,beef,
+Knorr Beef Stock Pot 4 x 28g,£1.95,£17.41/kg,beef,
+Princes Corned Beef 130G,£2.10,£16.15/kg,beef,
+Tesco Organic Beef Roasting Joint,£19.58,£21.75/kg,beef,
+Princes Corned Beef 200G,£3.20,£16.00/kg,beef,
+Tesco Organic Beef Ribeye Steak,£8.25,£41.25/kg,beef,
+Tesco Beef Stockpot 4 Pack 112G,£1.70,£15.18/kg,beef,
+TESCO finest Cherrywood Smoked Beef Aberdeen Angus Beef Burgers 340g,£5.50,£16.18/kg,beef,
+Tesco White Toastie Bread Thick Sliced 800g,£0.75,£0.94/kg,bread,
+Tesco Medium Sliced White Bread 800g,£0.74,£0.92/kg,bread,
+Hovis Soft White Medium Sliced Bread 800g,£1.39,£1.74/kg,bread,
+Warburtons Farmhouse Thick Sliced White Bread 800g,£1.60,£2.00/kg,bread,
+Warburtons Toastie Thick Sliced White Bread 800g,£1.40,£1.75/kg,bread,
+Tesco Wholemeal Medium Sliced Bread 800g,£0.75,£0.94/kg,bread,
+Hovis Seed Sensations Seven Seeds Sliced Bread 800g,£2.00,£2.50/kg,bread,
+Warburtons Tiger Bread Bloomer 600g,£1.65,£2.75/kg,bread,
+Warburtons Half And Half Medium Bread 800G,£1.35,£1.69/kg,bread,
+Warburtons Wholemeal Medium Sliced Bread 400g,£0.99,£2.48/kg,bread,
+Warburtons Toastie Thick and Small Sliced White Bread 400g,£0.99,£2.48/kg,bread,
+Hovis Soft White Thick Sliced Bread 800g,£1.39,£1.74/kg,bread,
+Hovis Best of Both Medium Bread 800g,£1.15,£1.44/kg,bread,
+Warburtons Wholemeal Medium Sliced Bread 800g,£1.35,£1.69/kg,bread,
+Warburtons Danish Lighter Small White Sliced Bread 400g,£1.25,£3.12/kg,bread,
+Warburtons Medium Sliced Soft White Bread 800g,£1.40,£1.75/kg,bread,
+H.W. Nevill's Medium Sliced Wholemeal Bread 800g,£0.55,£0.69/kg,bread,
+Tesco Finest Sunflower & Pumpkin Sliced White Bread Loaf 600g,£1.40,£2.33/kg,bread,
+Hovis Wholemeal Tasty Medium Bread 800g,£1.35,£1.69/kg,bread,
+Jason's Recipe No 08 White Sourdough Ciabattin Bread 580g,£2.20,£3.79/kg,bread,
+Tesco Multiseed Batch Medium Sliced White Loaf 800g,£1.30,£1.62/kg,bread,
+Warburtons Thick Sliced Seeded Batch Bread 800g,£1.90,£2.38/kg,bread,
+Tesco Finest Super Seeded Sliced Farmhouse Loaf 800g,£1.60,£2.00/kg,bread,
+Warburtons Baker's Bloomer White Bread 800g,£1.85,£2.31/kg,bread,
+H.W. Nevill's Medium Sliced White Bread 800g,£0.55,£0.69/kg,bread,
+Tesco Lightly Seeded White Bread Loaf 800g,£1.00,£1.25/kg,bread,
+Kingsmill 50/50 Medium Soft White Bread Loaf 800g,£1.05,£1.31/kg,bread,
+Tesco Finest Dark Rye & Sunflower Farmhouse Sliced Bread 600g,£1.40,£2.33/kg,bread,
+Hovis Best of Both Thick Bread 800g,£1.15,£1.44/kg,bread,
+Tesco 10 Garlic Bread Slices 260G,£1.25,£4.81/kg,bread,
+Hovis Authentic Granary Thick Bread 800g,£1.95,£2.44/kg,bread,
+Tesco White Plain Pitta Bread 6 Pack,£0.50,£0.08/each,bread,
+Hovis Wholemeal Thick Sliced Bread 800g,£1.35,£1.69/kg,bread,
+Hovis Authentic Granary Wholemeal Sliced Bread 800g,£1.95,£2.44/kg,bread,
+Tesco Finest Wholemeal Seeds & Grains Loaf 800g,£1.60,£2.00/kg,bread,
+Tesco Farmhouse Thick Sliced White Bread 800g,£1.10,£1.38/kg,bread,
+Hovis Seed Sensations Seven Seeds Sliced Bread 400g,£1.15,£2.88/kg,bread,
+Hovis Farmhouse Batch Wholemeal Bread with Oats 800g,£1.65,£2.06/kg,bread,
+Warburtons Small Medium Sliced White Bread 400G,£0.99,£2.48/kg,bread,
+Tesco Wholemeal Pitta Bread 6 Pack,£0.50,£0.08/each,bread,
+Hovis Tasty Wholemeal Medium Sliced Bread 400g,£1.00,£2.50/kg,bread,
+Warburtons Half & Half Thick Sliced Bread 800g,£1.35,£1.69/kg,bread,
+Warburtons Premium Old English Sliced White Bread 400g,£1.90,£4.75/kg,bread,
+Warburtons Milk Roll Soft White Bread 400g,£1.45,£3.62/kg,bread,
+Warburtons White Farmhouse Bread 400G,£1.30,£3.25/kg,bread,
+Hovis Authentic Granary Small Bread 400g,£1.15,£2.88/kg,bread,
+Jason's Sourdough White Ciabattin Bread with Grains & Seeds 580g,£2.20,£3.79/kg,bread,
+Tesco Breaded Chicken Goujons 270g,£3.00,£11.11/kg,bread,
+Jason's Superb Sprouted Grains Sourdough Bread 450g,£2.20,£4.89/kg,bread,
+Warburtons Soft White Pitta Breads 4 Pack,£1.20,£0.30/each,bread,
+Warburtons Soft Wholemeal Pitta Breads 4 Pack,£1.20,£0.30/each,bread,
+Hovis White 'n' Fibre Sliced Bread 800g,£1.65,£2.06/kg,bread,
+Tesco Finest White Loaf 800g,£1.60,£2.00/kg,bread,
+Tesco Breaded Chicken Steaks 4 Pack 505g,£4.40,£8.71/kg,bread,
+Warburtons White Sandwich Bread Thins 6 Pack,£1.20,£0.20/each,bread,
+Tesco Breaded Chicken Steaks 4 Pack 380g,£2.00,£5.26/kg,bread,
+Tesco Cheese & Garlic Pizza Bread 236G,£1.45,£6.14/kg,bread,
+Jason's Protein Sourdough Sunflower Seeded Bread 580g,£2.80,£4.83/kg,bread,
+Tesco Finest Sliced Green Olive & Rosemary Sourdough Bread 400g,£2.00,£5.00/kg,bread,
+Jacksons of Yorkshire Soft Champion White Bloomer Bread 800g,£1.85,£2.31/kg,bread,
+Wildfarmed Sliced Seeded Bread 550g,£2.25,£4.09/kg,bread,
+Clay Oven Bakery Hand Stretched Garlic & Coriander Naan Bread 2 Pack 360g,£1.85,£5.14/kg,bread,
+Tesco Free From White Bread 550g,£2.00,£3.64/kg,bread,
+Tesco Plain Naan Bread 2 Pack,£1.35,£0.68/each,bread,
+Promise Gluten Free Soft White Sliced Bread 480g,£3.25,£6.77/kg,bread,
+Tesco Free From Brown Bread 550g,£2.00,£3.64/kg,bread,
+Jason's Recipe No 09 Wholemeal Sourdough Ciabattin Bread 580g,£2.20,£3.79/kg,bread,
+Schar Gluten-Free Soft White Sliced Bread Loaf,£2.95,£9.83/kg,bread,
+Tesco Free From Sliced Seeded Bread 550g,£2.00,£3.64/kg,bread,
+Warburtons Gluten Free Multiseed Loaf Bread 300g,£1.80,£6.00/kg,bread,
+Tesco 4 Breaded Cod Fillets 500G,£5.00,£10.00/kg,bread,
+Warburtons Soft White Bread with Sourdough 400g,£1.85,£4.62/kg,bread,
+Tesco British Chicken Breast Fillets 650G,£4.65,£7.15/kg,chicken,
+Tesco Chicken Breast Fillets 320g,£2.34,£7.31/kg,chicken,
+Tesco British Chicken Breast Mini Fillets 400G,£3.85,£9.62/kg,chicken,
+Tesco Large Whole Chicken 1.7-2.1kg,£5.15,£3.03/kg,chicken,
+Tesco Medium Whole Chicken 1.3-1.7kg,£3.95,£3.04/kg,chicken,
+Tesco British Diced Chicken Breast 400G,£3.85,£9.62/kg,chicken,
+Tesco Chicken Breast Mini Fillets 650g,£5.10,£7.85/kg,chicken,
+Eastman's Sliced Cooked Chicken 240G,£1.99,£8.29/kg,chicken,
+Tesco Extra Large Whole Chicken 2.1-2.6kg,£6.35,£3.02/kg,chicken,
+Tesco British Diced Chicken Breast 650G,£5.10,£7.85/kg,chicken,
+Tesco British Chicken Thighs 1Kg,£2.99,£2.99/kg,chicken,
+Tesco Large Chicken Fillet Pack 1.6Kg,£10.50,£6.56/kg,chicken,
+Tesco Roast In The Bag Rotisserie Style Whole Chicken 1.5Kg,£7.00,£4.67/kg,chicken,
+Tesco British Chicken Thigh Fillets 1Kg,£7.10,£7.10/kg,chicken,
+Tesco Crispy Chicken Tenders 305g,£4.20,£13.77/kg,chicken,
+Tesco British Chicken Drumsticks 1Kg,£2.15,£2.15/kg,chicken,
+Tesco British Chicken Thigh Fillets 600G,£5.60,£9.33/kg,chicken,
+Butchers Choice Cooked Chicken Slices 340G,£2.09,£6.15/kg,chicken,
+Tesco British Chicken Legs 1Kg,£2.25,£2.25/kg,chicken,
+Tesco British Chicken Drumstick Fillets 600g,£2.95,£4.92/kg,chicken,
+Tesco Buttered Chicken Breast Joint 565g,£6.55,£11.59/kg,chicken,
+Eastman's Sliced Cooked Chicken Tikka 240G,£1.99,£8.29/kg,chicken,
+Tesco Chicken Breast Pieces 750g,£5.95,£7.93/kg,chicken,
+Tesco Slower Grown Chicken Breast Fillets 650g,£7.70,£11.85/kg,chicken,
+Tesco Flamegrilled Roast Chicken Slices 160g,£3.00,£18.75/kg,chicken,
+Tesco British Roast Chicken Slices 120g,£2.25,£18.75/kg,chicken,
+Tesco Finest Roast Chicken 120g,£3.75,£31.25/kg,chicken,
+Tesco Roast In Bag Butter Basted Whole Chicken 1.5Kg,£7.00,£4.67/kg,chicken,
+Tesco BBQ Roast Chicken Slices 160g,£3.00,£18.75/kg,chicken,
+Tesco Finest British Cornfed Free Range Whole Chicken 1Kg-2.3Kg,£7.50,£7.50/kg,chicken,
+Tesco Wafer Thin Roast Chicken Slices 400g,£2.19,£5.48/kg,chicken,
+Tesco 2 Roast Cooked Chicken Breast Fillets 245 G,£3.85,£15.71/kg,chicken,
+Tesco Chicken Wings 1KG,£2.19,£2.19/kg,chicken,
+Tesco Chicken Thighs 2Kg,£5.60,£2.80/kg,chicken,
+Tesco Southern Fried Chicken Steaks 4 Pack 380g,£2.00,£5.26/kg,chicken,
+Tesco Wafer Thin Roast Chicken Slices 125g,£1.25,£10.00/kg,chicken,
+Butchers Choice Chicken Fillet 1.2 kg,£5.10,£4.25/kg,chicken,
+Tesco Roast Chicken Slices 180g,£3.75,£20.83/kg,chicken,
+Tesco Breaded Chicken Steaks 4 Pack 380g,£2.00,£5.26/kg,chicken,
+Tesco Buttermilk Chicken Tenders 305g,£4.20,£13.77/kg,chicken,
+Tesco Crispy Chicken Breast Fillets 350g,£4.20,£12.00/kg,chicken,
+Tesco 2 Garlic and Herb Chicken Kievs 270g,£3.25,£12.04/kg,chicken,
+Tesco Southern Fried Chicken Tenders 305g,£4.20,£13.77/kg,chicken,
+Fridge Raiders Roast Chicken Bites 3X22.5G,£1.65,£24.44/kg,chicken,
+Tesco Breaded Chicken Goujons 270g,£3.00,£11.11/kg,chicken,
+Tesco British Chicken Breast Fillets 2kg,£12.85,£6.42/kg,chicken,
+Tesco Cajun Chicken Escalopes 350g,£4.50,£12.86/kg,chicken,
+Tesco Hot & Spicy Chicken Tenders 305g,£4.20,£13.77/kg,chicken,
+Tesco Breaded Chicken Steaks 4 Pack 505g,£4.40,£8.71/kg,chicken,
+Tesco Sweet Chilli Roast Chicken Slices 160g,£3.00,£18.75/kg,chicken,
+Tesco Chicken Mince 5% Fat 500G,£2.49,£4.98/kg,chicken,
+Diggerscrispy Shredded Chicken 320G,£3.85,£12.03/kg,chicken,
+Diggers Batter Chicken Balls 320G,£3.85,£11.32/kg,chicken,
+Birds Eye Chicken Dippers 22 Pack 403g,£5.00,£12.41/kg,chicken,
+Tesco Battered Chicken Dippers 20 Pack 450g,£1.65,£3.67/kg,chicken,
+"Tesco Finest Roast Chicken Breast with Pork, Sage & Onion Stuffing 120g",£3.75,£31.25/kg,chicken,
+Tesco Organic 2 Chicken Fillets,£5.75,£23.00/kg,chicken,
+Fridge Raiders Slow Roasted Chicken Bites 5X22.5G,£2.55,£22.67/kg,chicken,
+Tesco 4 Roast Cooked Chicken Breast Fillets 485G,£6.00,£12.37/kg,chicken,
+Birds Eye Chicken Dippers 38 Pack 697g,£6.00,£8.61/kg,chicken,
+Tesco Sweet Chilli Chicken Escalopes 316G,£4.50,£14.24/kg,chicken,
+Birds Eye 2 Crispy Chicken 170G,£1.50,£8.82/kg,chicken,
+Tesco Finest Parmesan Parmigiana Crispy Chicken Breasts 420g,£6.00,£14.29/kg,chicken,
+Tesco Finest Lemon Crispy Chicken Schnitzel 355g,£6.00,£16.90/kg,chicken,
+Tesco Organic Whole Chicken,£15.00,£10.00/kg,chicken,
+Tesco Buttermilk Chicken Strips 400g,£4.10,£10.25/kg,chicken,
+Tesco Garlic & Herb Chicken Kievs 375g,£4.70,£12.53/kg,chicken,
+Tesco Chicken Breast Fillet 1Kg,£7.00,£7.00/kg,chicken,
+Tesco Chicken Drumsticks 2Kg,£4.30,£2.15/kg,chicken,
+Eastman's Hot & Spicy Sliced Chicken 240G,£1.99,£8.29/kg,chicken,
+Tesco Flame Grilled Chicken Breast Mini Fillets 170g,£3.25,£19.12/kg,chicken,
+Birds Eye 2 Southern Fried Chicken 180G,£1.50,£8.33/kg,chicken,
+Clarence Court Traditional Leghorn Whites Free Range Eggs 6 Pack,£2.85,£0.48/each,eggs,
+Tesco Medium Free Range Eggs 12 Pack,£2.85,£0.24/each,eggs,
+Tesco Large Free Range Eggs 12 Pack,£3.30,£0.28/each,eggs,
+Tesco Free Range Eggs Medium 6 Pack,£1.80,£0.30/each,eggs,
+Tesco Large Free Range Eggs 6 Pack,£2.10,£0.35/each,eggs,
+Big & Fresh Barn Eggs Large 10 Pack,£2.55,£0.26/each,eggs,
+Happy Egg Free Range Eggs Large 10 Pack,£3.75,£0.38/each,eggs,
+Happy Egg Free Range Eggs Medium 6 Pack,£2.35,£0.39/each,eggs,
+Freshlay Golden Yolks Free Range Eggs 10 Pack 540G,£4.05,£0.40/each,eggs,
+Happy Egg Free Range Eggs Large 6 Pack,£2.55,£0.42/each,eggs,
+Big & Free Large White Free Range Eggs 10 Pack,£3.35,£0.34/each,eggs,
+Cadbury Mini Eggs 74g,£2.00,£27.03/kg,eggs,
+Happy Egg Co. Free Range Eggs 10 Mixed Weight,£3.45,£0.34/each,eggs,
+St.Ewe Rich Yolk Free Range Eggs 6 Pack,£2.95,£0.49/each,eggs,
+Tesco Finest Free Range 6 Golden Yolk Eggs,£2.90,£0.48/each,eggs,
+St. Ewe Rich Yolk Large Free-Range Eggs 6 Pack,£3.30,£0.55/each,eggs,
+Tesco Mixed Sized Organic Eggs 6 Pack,£2.85,£8.69/kg,eggs,
+Tesco Free Range Eggs Very Large 6 Pack,£2.40,£0.40/each,eggs,
+Tesco Finest 6 Free Range Chestnut Maran Eggs,£2.90,£0.48/each,eggs,
+Cadbury Creme Egg 5 Pack 200G,£4.00,£20.00/kg,eggs,
+Purely Organic Eggs Mixed Weight 10 Pack,£5.20,£0.52/each,eggs,
+St Ewe Original Large Free Range Eggs 10 Pack,£3.95,£0.40/each,eggs,
+Cadbury Mini Eggs Shell Egg 95g,£2.00,£21.05/kg,eggs,
+Cadbury Creme Egg Chocolate Eggs Mixed 5 Pack 200g,£4.00,£20.00/kg,eggs,
+Tesco Egg Custard Tarts 4 Pack,£1.05,£0.26/each,eggs,
+St. Ewe Original Free Range Eggs Medium 6 Pack,£2.40,£0.40/each,eggs,
+Cadbury Creme Egg Chocolate Eggs 8 pack 320g,£6.00,£18.75/kg,eggs,
+Cadbury Dairy milk Buttons Shell EASTER Egg 90g,£2.00,£22.22/kg,eggs,
+Tesco Egg Noodles 300G,£1.10,£3.67/kg,eggs,
+Cadbury Mini Creme Eggs Chocolate Eggs 78g,,,eggs,
+Cadbury Dairy Milk Mini Eggs Chocolate Eggs 77g,£2.00,£25.97/kg,eggs,
+Tesco Scotch Eggs 2 Pack 227G,£1.09,£4.80/kg,eggs,
+Tesco Finest Free Range Bluebell Araucana Eggs 6 Pack,£2.90,£0.48/each,eggs,
+ST. EWE FREE RANGE EGGS Original Family Pack Mixed Weight 15 Eggs,£4.85,£0.32/each,eggs,
+Cadbury Caramel Egg 5 Pack 195G,£4.00,£20.51/kg,eggs,
+Cadbury Biscoff Filled Egg 5x32g,£4.00,£25.00/kg,eggs,
+Two Chicks Liquid Egg Whites 500 Ml,£3.50,£7.00/litre,eggs,
+Cadbury Dairy Milk Freddo Faces Easter Egg 90g,£2.00,£22.22/kg,eggs,
+Tony's Chocolonely 12 Egg-Stra Special Chocolate Eggs 150G,£4.50,£30.00/kg,eggs,
+Smarties Milk Chocolate Egg 100g,£2.00,£20.00/kg,eggs,
+Galaxy Creamy Truffle Mini Eggs Easter Egg 194g,£7.00,£36.08/kg,eggs,
+Cadbury Mini Eggs Chocolate Eggs Bag 1kg,£16.00,£16.00/kg,eggs,
+Milkybar White Chocolate Egg 72g,£2.00,£27.78/kg,eggs,
+Cadbury Twirl Shell Egg 218g,£7.00,£32.11/kg,eggs,
+Milkybar White Chocolate Mini Eggs Giant Easter Egg 230g,£7.00,£30.44/kg,eggs,
+Tesco Medium Egg Noodles 250G,£0.95,£3.80/kg,eggs,
+Cadbury White Creme Egg 5x40g,£4.00,£20.00/kg,eggs,
+Cadbury Mini Eggs Family Pack 256g,£6.20,£24.22/kg,eggs,
+Cadbury Dairy Milk Shell Easter Egg 242g,£7.00,£28.93/kg,eggs,
+Cadbury Mini Egg 287g,£5.75,£20.04/kg,eggs,
+Smarties Mini Eggs 80G,£1.75,£21.88/kg,eggs,
+Cadbury Creme Egg Shell 255g,£7.00,£27.45/kg,eggs,
+Cadbury Orange Mini Eggs 74g,£2.00,£27.03/kg,eggs,
+Cadbury Dairy Milk Mini Eggs Shell 238g,,,eggs,
+Kinder Surprise Egg 3 X 20G,£3.00,£50.00/kg,eggs,
+Kit Kat Chunky Easter Egg 110g,£2.00,£18.18/kg,eggs,
+St Ewe Super Eggs 6 Pack,£2.75,£0.46/each,eggs,
+Galaxy Milk Chocolate Easter Egg 210g,£7.00,£33.33/kg,eggs,
+Tesco Egg Hunt Basket 340G,£6.00,£17.65/kg,eggs,
+Cadbury White Buttons Shell Egg 91g,£2.00,£21.98/kg,eggs,
+Reese's Peanut Butter Creme Egg 5X34g,,,eggs,
+Kinder Bueno Mini Easter Eggs 80g,£3.65,£45.62/kg,eggs,
+Lindt Lindor Mini Pistachio Eggs 80g,,,eggs,
+Yolk  Free Range Eggs 6 Medium,£1.80,£0.30/each,eggs,
+After Eight Dark Mint Chocolate Mini Eggs 81G,£1.75,£21.60/kg,eggs,
+Maltesers Milk Chocolate Easter Egg 194g,£7.00,£36.08/kg,eggs,
+Kinder Surprise Easter Egg 100G,,,eggs,
+Cadbury Oreo Chocolate Egg 5 x 31g,£4.00,£25.81/kg,eggs,
+KITKAT Milk Chocolate Mini Eggs 80g,£1.75,£21.88/kg,eggs,
+Tesco Scotch Eggs 4 Pack 454G,£2.15,£4.74/kg,eggs,
+Maltesers Milk Chocolate Easter Egg 96.5g,,,eggs,
+Maltesers Bunnies Milk Chocolate Easter Egg 207g,£7.00,£33.82/kg,eggs,
+Milkybar White Chocolate Mini Eggs 80G,£1.75,£21.88/kg,eggs,
+Leap Free Not Farmed Albacore Tuna 220G,£6.90,£31.36/kg,fish,
+Leap Wild Smoked Sockeye Salmon 100G,£9.00,£90.00/kg,fish,
+Birds Eye 4 Battered Fish Fillets 400G,£2.45,£6.12/kg,fish,
+Tesco 2 Skinless & Boneless Basa Fillets 250G,£1.79,£7.16/kg,fish,
+Tesco 2 Boneless Salmon Fillets 260G,£4.80,£18.46/kg,fish,
+Youngs Gastro Signature Breaded Lemon & Pepper 2 Fish Fillets 270G,£5.25,£19.44/kg,fish,
+Bay Fishmongers White Fish Fillets 520G,£2.35,£4.52/kg,fish,
+Tesco 2 Skinless Smoked Basa Fillets 240G,£1.79,£7.46/kg,fish,
+Tesco Lightly Dusted Cod Fillets 255G,£5.50,£21.57/kg,fish,
+Hearty Food Co 4 Battered White Fish Fillets 400G,£1.99,£4.98/kg,fish,
+Youngs Chip Shop 4 Omega 3 Fish Fillets,£4.25,£10.62/kg,fish,
+Young's Chip Shop Extra Large Beer Batter Fish Fillets 300g,£4.35,£14.50/kg,fish,
+Tesco 2 Boneless Sea Bass Fillets 180G,£5.95,£33.06/kg,fish,
+Tesco 4 Breaded Cod Fillets 500G,£5.00,£10.00/kg,fish,
+Tesco Battered Cod Fillet Bites 200G,£3.00,£15.00/kg,fish,
+Tesco Finest 2 Skinless & Boneless Cod Loins 300g,£5.00,£16.67/kg,fish,
+Tesco 2 Breaded Chunky Cod Fillets 350G,£5.25,£15.00/kg,fish,
+Youngs Gastro 2 Tempura Battered Fish Fillets 270G,£5.25,£19.44/kg,fish,
+Youngs Gastro 2 Crispy Lemon Basa Fillets 310G,£5.25,£16.94/kg,fish,
+Tesco Lightly Dusted Haddock Fillets 255G,£5.50,£21.57/kg,fish,
+Tesco Tuna Chunks In Spring Water 4 X 145G,£2.49,£6.10/kg DR.WT,fish,
+Birds Eye Omega 3 Fish Fingers 10 Pack 280g,£3.00,£10.71/kg,fish,
+Tesco Breaded Chunky Haddock Fillets 350g,£5.25,£15.00/kg,fish,
+Birds Eye 4 Breaded Cod Fillets 400g,£6.60,£16.50/kg,fish,
+Tesco Finest Skinless & Boneless Cod Loins 280G,£8.10,£28.93/kg,fish,
+Tesco Cod Fillets 360G,£5.50,£15.28/kg,fish,
+Tesco Smoked Salmon 100g,£3.75,£37.50/kg,fish,
+Birds Eye 6 Crispy Battered Fish Fingers Extra Large 360G,£3.75,£10.42/kg,fish,
+Youngs Gastro 2 Sea Salt & Pepper Basa Fillets 310G,£5.25,£16.94/kg,fish,
+Birds Eye Captain's Discoveries Lightly Dusted Fish Fillets with Sea Salt & Rosemary 280g,£4.50,£16.07/kg,fish,
+Tesco Finest 2 Cod & Parsley Fishcakes 290G,£3.60,£12.41/kg,fish,
+Tesco Fish Pie Mix 340G,£6.50,£19.12/kg,fish,
+Hearty Food Co 4 Breaded White Fish Fillets 400G,£1.99,£4.98/kg,fish,
+Tesco Boneless Smoked Haddock 280G,£7.60,£27.14/kg,fish,
+Birds Eye 2 Battered Fish Fillets 200G,£1.50,£7.50/kg,fish,
+Hearty Food Co. 4 Breaded Fish Fillets 600G,£2.99,£4.98/kg,fish,
+Tesco Finest 2 Smoked Haddock Fishcakes 290G,£3.60,£12.41/kg,fish,
+Tesco Omega 3 Fish Fingers 10 Pack 300g,£0.93,£3.10/kg,fish,
+Tesco 4 Wild Salmon Fillets 330G,£5.50,£16.67/kg,fish,
+Tesco Fish Pie Mix 400G,£6.00,£15.00/kg,fish,
+Tesco Basa Fillets 500G,£5.50,£11.00/kg,fish,
+Birds Eye 4 Battered Cod Fillets 400g,£6.60,£16.50/kg,fish,
+Hearty Food Co 4 Fish Steaks In Butter Sauce 552G,£2.70,£4.89/kg,fish,
+Tesco 4 Battered Haddock Fillets 500G,,,fish,
+Tesco 2 Boneless Mackerel Fillets 160G,£3.95,£24.69/kg,fish,
+Tesco Simply Salmon & Dill Parcels 275G,£5.40,£19.64/kg,fish,
+Tesco 2 Boneless Cod Fillets 280G,£7.80,£27.86/kg,fish,
+Tesco Sweet Chilli & Lime Basa Fillets 250g,£3.00,£12.00/kg,fish,
+Tesco Skinless Boneless Scottish Mackerel In Tomato Sauce 125G,£1.30,£10.40/kg,fish,
+Tesco Finest 2 Beer Battered Cod Fillets 300g,£4.10,£13.67/kg,fish,
+Tesco Boneless Haddock Fillets 280G,£5.85,£20.89/kg,fish,
+Youngs Chip Shop Jumbo Fish Special 480g,£5.00,£10.42/kg,fish,
+Tesco 2 Lemon & Pepper Sea Bass Fillets 200G,£5.95,£29.75/kg,fish,
+Tesco Haddock Fillets 360G,£5.50,£15.28/kg,fish,
+Tesco Finest 6 Chunky Cod Fillets Fish Fingers 400G,£4.40,£11.00/kg,fish,
+Mowi 2 Scottish Salmon Fillets 230G,£5.95,£25.87/kg,fish,
+Hearty Food Co Fish Fingers 10 Pack 250g,£0.80,£3.20/kg,fish,
+Tesco 4 Breaded Haddock Fillets 500G,£5.00,£10.00/kg,fish,
+Tesco Tuna Chunks In Spring Water 145G,£0.65,£6.37/kg DR.WT,fish,
+Hearty Food Co 10 Cod Fish Cakes 500g,£2.00,£4.00/kg,fish,
+Birds Eye 2 Breaded Fish Fillets 200G,£1.50,£7.50/kg,fish,
+Tesco Boneless Salmon Half Side 500g,£9.20,£18.40/kg,fish,
+Tesco Cod Fish Fingers 10 Pack 300G,£1.99,£6.63/kg,fish,
+Tesco 2 Cod Fishcakes 270G,£2.15,£7.96/kg,fish,
+Tesco Boneless Salmon Fillets 4 Pack 520g,£9.45,£18.17/kg,fish,
+Tesco Mackerel in Spring Water 125g,£1.30,£14.77/kg DR.WT,fish,
+Birds Eye Gluten Free Breaded Fish Fillets 250G,£3.85,£15.40/kg,fish,
+Tesco Cod Mornay 360g,£5.90,£16.39/kg,fish,
+Tesco 4 Battered Chunky Cod Fillets 500G,£6.25,£12.50/kg,fish,
+Tesco Battered Haddock Goujons 200G,£2.75,£13.75/kg,fish,
+Tesco Finest Yellow Fin Tuna Steaks 280g,£5.00,£17.86/kg,fish,
+Tesco Finest 2 Cod & Chorizo Fishcakes 290G,£3.60,£12.41/kg,fish,
+Youngs 4 Fish Steaks And Butter Sauce 560G,£4.70,£8.39/kg,fish,
+Tesco Sweet Chilli Salmon Fillets 230g,£5.50,£23.91/kg,fish,
+"Tesco British Semi Skimmed Milk 2.272L, 4 Pints",£1.65,£0.73/litre,milk,
+"Tesco British Whole Milk 2.272L, 4 Pints",£1.65,£0.73/litre,milk,
+"Tesco British Semi Skimmed Milk 1.13L, 2 Pints",£1.20,£1.06/litre,milk,
+"Tesco British Whole Milk 1.13L, 2 Pints",£1.20,£1.06/litre,milk,
+"Tesco British Skimmed Milk 2.272L, 4 Pints",£1.65,£0.73/litre,milk,
+Cravendale Filtered Fresh Semi Skimmed Milk 2L Fresher for Longer,£2.50,£1.25/litre,milk,
+"Tesco British Semi Skimmed Milk 568 Ml, 1 Pint",£0.85,£1.50/litre,milk,
+"Tesco British Skimmed Milk 1.136L, 2 Pints",£1.20,£1.06/litre,milk,
+Tesco Filtered Semi Skimmed Milk 2 Litre,£2.10,£1.05/litre,milk,
+Cravendale Filtered Fresh Whole Milk 2L Fresher for Longer,£2.50,£1.25/litre,milk,
+"Tesco British Whole Milk 568Ml, 1 Pint",£0.85,£1.50/litre,milk,
+Tesco Organic British Semi Skimmed Milk 2.272L/4 Pints,£2.45,£1.08/litre,milk,
+Tesco British Semi Skimmed Longlife Uht Milk 1 Litre,£1.35,£1.35/litre,milk,
+Arla BOB Skimmed Milk 2L Tastes like Semi Skimmed,£2.50,£1.25/litre,milk,
+Cravendale Filtered Fresh Semi Skimmed Milk 1L Fresher for Longer,£1.75,£1.75/litre,milk,
+Creamfields Semi Skimmed UHT Milk 1L,£0.69,£0.69/litre,milk,
+Tesco Milk Chocolate Digestive Biscuits 300G,£1.20,£4.00/kg,milk,
+Tesco Filtered Whole Milk 2 Litre,£2.10,£1.05/litre,milk,
+Tesco Organic British Whole Milk 2.272L/4 Pints,£2.45,£1.08/litre,milk,
+Tesco British Semi Skimmed Uht Milk 6 X 1 Litre,£6.15,£1.02/litre,milk,
+Graham's Gold Jersey Milk 1 Litre,£1.95,£1.95/litre,milk,
+Tesco Finest Jersey Whole Milk 1L,£1.90,£1.90/litre,milk,
+Arla Big Milk Fresh Whole Milk  2L Vitamin Enriched for kids 1+,£2.75,£1.38/litre,milk,
+Creamfields Skimmed UHT Milk 1L,£0.69,£0.69/litre,milk,
+"Tesco British Skimmed Milk 568Ml, 1 Pint",£0.85,£1.50/litre,milk,
+Tesco British Whole Milk Longlife Uht 1 Litre,£1.35,£1.35/litre,milk,
+Tunnock's Milk Chocolate Tea Cakes 6 x 24g,£1.15,£7.99/kg,milk,
+Cadbury Animals Biscuits - Milk Chocolate 5 x 19.9g,£1.50,£15.08/kg,milk,
+"Tesco Organic British Semi Skimmed Milk 1.136L, 2 Pint",£1.95,£1.72/litre,milk,
+Cravendale Filtered Fresh Skimmed Milk 2L Fresher for Longer,£2.50,£1.25/litre,milk,
+Cravendale Filtered Fresh Whole Milk 1L Fresher for Longer,£1.75,£1.75/litre,milk,
+Tesco British Skimmed Longlife Uht Milk 1 Litre,£1.35,£1.35/litre,milk,
+McVitie's Digestives Milk Chocolate Biscuits 266g,£2.25,£8.46/kg,milk,
+Arla LactoFREE Semi Skimmed Milk Drink 1L,£1.95,£1.95/litre,milk,
+Tesco Milk Chocolate Mousse 6 X60g,£0.85,£2.36/kg,milk,
+Graham's Organic Whole Milk 1L,£1.90,£1.90/litre,milk,
+Yeo Valley Organic Fresh Whole Milk 2L,£3.15,£1.58/litre,milk,
+Tesco Milk Chocolate Malted Milk 250g,£1.65,£6.60/kg,milk,
+Tesco British Whole Uht Milk 6 X 1 Litre,£6.15,£1.02/litre,milk,
+"Tesco Organic Free Range Whole Milk 1.136L, 2 Pint",£1.95,£1.72/litre,milk,
+Tesco British Skimmed Uht Milk 6 X 1 Litre,£6.15,£1.02/litre,milk,
+Biocol Skimmed Milk 1 Litre,£1.80,£1.80/litre,milk,
+Tesco Milk For Milk For Cats 200Ml,£0.90,£4.50/litre,milk,
+Tesco Filtered Skimmed Milk 2 Litre,£2.10,£1.05/litre,milk,
+Cadbury Dairy milk Buttons Shell EASTER Egg 90g,£2.00,£22.22/kg,milk,
+Arla Big Milk Fresh Whole Milk Vitamin Enriched for kids 4 X250ml,£3.75,£3.75/litre,milk,
+Arla Lactofree Whole Milk Drink 2L,£3.00,£1.50/litre,milk,
+Delamere Dairy Sterilised Longlife Whole Milk 1 Litre,£1.20,£1.20/litre,milk,
+Trewithen Dairy Barista Cornish Milk 1 Litre,£1.65,£1.65/litre,milk,
+Ms. Molly's Milk Lollies 8X35ml,£1.15,£4.11/litre,milk,
+Arla BOB Semi-Skimmed Milk 2L That Tastes Like Whole,£2.50,£1.25/litre DR.WT,milk,
+Yeo Valley Organic Semi-Skimmed Fresh Milk 2L,£3.15,£1.58/litre,milk,
+Delamere Skimmed Sterilised Milk 1 Litre,£1.20,£1.20/litre,milk,
+SuperNutrio High Protein Fresh Whole Milk 1l,£2.25,£2.25/litre,milk,
+Tesco Chocolate Flavoured Milk 1L,£1.20,£1.20/litre,milk,
+Arla LactoFREE Semi Skimmed Milk Drink 2L,£3.15,£1.58/litre,milk,
+Yeo Valley Organic Free Range Whole Milk 1L,£2.00,£2.00/litre,milk,
+Smarties Milk Chocolate Egg 100g,£2.00,£20.00/kg,milk,
+SuperNutrio High Protein Fresh Semi Skimmed Milk 1l,£2.25,£2.25/litre,milk,
+Delamere Dairy Sterilised Semi-Skimmed Milk 1 Litre,£1.20,£1.20/litre,milk,
+Kinder Milk Slice Milk And Honey 3 X 28G,£0.95,£11.31/kg,milk,
+"Tesco Organic Free Range Skimmed Milk 1.136L, 2 Pint",£1.95,£1.72/litre,milk,
+Lindt Lindor Milk Chocolate Egg with Milk Truffles 183g,£12.00,£65.57/kg,milk,
+Lindt Milk Chocolate Egg With Lindor Milk Truffels 348G,£22.00,£63.22/kg,milk,
+Lindt Lindor Milk Chocolate Egg with Milk Truffles 260g,£15.00,£57.69/kg,milk,
+Arla BOB Skimmed Milk 1L Tastes like Semi Skimmed,£1.55,£1.55/litre,milk,
+Galaxy Minstrels Milk Chocolate 118g,£1.75,£14.83/kg,milk,
+Cadbury Dairy Milk Freddo Faces Easter Egg 90g,£2.00,£22.22/kg,milk,
+Tesco Milk For Kittens 200Ml,£0.90,£4.50/litre,milk,
+Laila Coconut Milk 400ml,£1.30,£3.25/litre,milk,
+Tesco Milk Chocolate Raisins 150g,£1.85,£12.33/kg,milk,
+Arla LactoFREE Whole Milk Drink 1L,£1.95,£1.95/litre,milk,
